@@ -6,8 +6,7 @@ pytest==7.4.0
 httpx==0.24.1
 neo4j==5.28.1
 python-dotenv==1.0.1
-# Optional dense retrieval provider; the service reports dense retrieval disabled when unavailable.
-sentence-transformers==3.3.1
+# Dense retrieval is optional. Install sentence-transformers separately when it is available.
 pypdf>=5.0,<7
 reportlab>=4.4,<5
 uharfbuzz>=0.39,<1
