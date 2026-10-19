@@ -1,0 +1,355 @@
+﻿:START_ID,:END_ID,:TYPE,relationship_id,source_type,target_type,passage_id,event_id,evidence,confidence,source_file,source_page_start,source_page_end
+ENT_DEITY,MAT_001,MENTIONED_IN,REL_MENTION_ENT_DEITY_MAT_001,ENTITY,PASSAGE,MAT_001,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,3,8
+ENT_SPEAR,MAT_001,MENTIONED_IN,REL_MENTION_ENT_SPEAR_MAT_001,ENTITY,PASSAGE,MAT_001,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,3,8
+ENT_KAVUNTI,MAT_001,MENTIONED_IN,REL_MENTION_ENT_KAVUNTI_MAT_001,ENTITY,PASSAGE,MAT_001,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,3,8
+ENT_KOVALAN,MAT_001,MENTIONED_IN,REL_MENTION_ENT_KOVALAN_MAT_001,ENTITY,PASSAGE,MAT_001,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,3,8
+ENT_MADHAVI,MAT_001,MENTIONED_IN,REL_MENTION_ENT_MADHAVI_MAT_001,ENTITY,PASSAGE,MAT_001,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,3,8
+ENT_FOREST,MAT_001,MENTIONED_IN,REL_MENTION_ENT_FOREST_MAT_001,ENTITY,PASSAGE,MAT_001,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,3,8
+ENT_K_VERI,MAT_001,MENTIONED_IN,REL_MENTION_ENT_K_VERI_MAT_001,ENTITY,PASSAGE,MAT_001,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,3,8
+ENT_MADURAI,MAT_001,MENTIONED_IN,REL_MENTION_ENT_MADURAI_MAT_001,ENTITY,PASSAGE,MAT_001,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,3,8
+ENT_ACTION_KARMA,MAT_002,MENTIONED_IN,REL_MENTION_ENT_ACTION_KARMA_MAT_002,ENTITY,PASSAGE,MAT_002,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,9,13
+ENT_BARDS,MAT_002,MENTIONED_IN,REL_MENTION_ENT_BARDS_MAT_002,ENTITY,PASSAGE,MAT_002,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,9,13
+ENT_ANKLET,MAT_002,MENTIONED_IN,REL_MENTION_ENT_ANKLET_MAT_002,ENTITY,PASSAGE,MAT_002,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,9,13
+ENT_GOLD,MAT_002,MENTIONED_IN,REL_MENTION_ENT_GOLD_MAT_002,ENTITY,PASSAGE,MAT_002,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,9,13
+ENT_Y,MAT_002,MENTIONED_IN,REL_MENTION_ENT_Y_MAT_002,ENTITY,PASSAGE,MAT_002,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,9,13
+ENT_SWORD,MAT_002,MENTIONED_IN,REL_MENTION_ENT_SWORD_MAT_002,ENTITY,PASSAGE,MAT_002,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,9,13
+ENT_VIRTUE_DHARMA,MAT_003,MENTIONED_IN,REL_MENTION_ENT_VIRTUE_DHARMA_MAT_003,ENTITY,PASSAGE,MAT_003,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,14,18
+ENT_SWORD,MAT_003,MENTIONED_IN,REL_MENTION_ENT_SWORD_MAT_003,ENTITY,PASSAGE,MAT_003,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,14,18
+ENT_KOVALAN,MAT_003,MENTIONED_IN,REL_MENTION_ENT_KOVALAN_MAT_003,ENTITY,PASSAGE,MAT_003,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,14,18
+ENT_MADHAVI,MAT_003,MENTIONED_IN,REL_MENTION_ENT_MADHAVI_MAT_003,ENTITY,PASSAGE,MAT_003,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,14,18
+ENT_PANDYAN_KING,MAT_003,MENTIONED_IN,REL_MENTION_ENT_PANDYAN_KING_MAT_003,ENTITY,PASSAGE,MAT_003,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,14,18
+ENT_POTHIYIL,MAT_003,MENTIONED_IN,REL_MENTION_ENT_POTHIYIL_MAT_003,ENTITY,PASSAGE,MAT_003,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,14,18
+ENT_MADURAI,MAT_003,MENTIONED_IN,REL_MENTION_ENT_MADURAI_MAT_003,ENTITY,PASSAGE,MAT_003,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,14,18
+ENT_ACTION_KARMA,MAT_004,MENTIONED_IN,REL_MENTION_ENT_ACTION_KARMA_MAT_004,ENTITY,PASSAGE,MAT_004,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,19,23
+ENT_FLUTE,MAT_004,MENTIONED_IN,REL_MENTION_ENT_FLUTE_MAT_004,ENTITY,PASSAGE,MAT_004,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,19,23
+ENT_GOLD,MAT_004,MENTIONED_IN,REL_MENTION_ENT_GOLD_MAT_004,ENTITY,PASSAGE,MAT_004,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,19,23
+ENT_SWORD,MAT_004,MENTIONED_IN,REL_MENTION_ENT_SWORD_MAT_004,ENTITY,PASSAGE,MAT_004,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,19,23
+ENT_KAVUNTI,MAT_004,MENTIONED_IN,REL_MENTION_ENT_KAVUNTI_MAT_004,ENTITY,PASSAGE,MAT_004,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,19,23
+ENT_KOVALAN,MAT_004,MENTIONED_IN,REL_MENTION_ENT_KOVALAN_MAT_004,ENTITY,PASSAGE,MAT_004,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,19,23
+ENT_MADHAVI,MAT_004,MENTIONED_IN,REL_MENTION_ENT_MADHAVI_MAT_004,ENTITY,PASSAGE,MAT_004,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,19,23
+ENT_FOREST,MAT_004,MENTIONED_IN,REL_MENTION_ENT_FOREST_MAT_004,ENTITY,PASSAGE,MAT_004,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,19,23
+ENT_POTHIYIL,MAT_004,MENTIONED_IN,REL_MENTION_ENT_POTHIYIL_MAT_004,ENTITY,PASSAGE,MAT_004,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,19,23
+ENT_VIRTUE_DHARMA,MAT_005,MENTIONED_IN,REL_MENTION_ENT_VIRTUE_DHARMA_MAT_005,ENTITY,PASSAGE,MAT_005,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,24,28
+ENT_CHASTITY,MAT_005,MENTIONED_IN,REL_MENTION_ENT_CHASTITY_MAT_005,ENTITY,PASSAGE,MAT_005,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,24,28
+ENT_DEITY,MAT_005,MENTIONED_IN,REL_MENTION_ENT_DEITY_MAT_005,ENTITY,PASSAGE,MAT_005,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,24,28
+ENT_ACTION_KARMA,MAT_005,MENTIONED_IN,REL_MENTION_ENT_ACTION_KARMA_MAT_005,ENTITY,PASSAGE,MAT_005,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,24,28
+ENT_COWHERD_WOMEN,MAT_005,MENTIONED_IN,REL_MENTION_ENT_COWHERD_WOMEN_MAT_005,ENTITY,PASSAGE,MAT_005,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,24,28
+ENT_GOLD,MAT_005,MENTIONED_IN,REL_MENTION_ENT_GOLD_MAT_005,ENTITY,PASSAGE,MAT_005,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,24,28
+ENT_KAVUNTI,MAT_005,MENTIONED_IN,REL_MENTION_ENT_KAVUNTI_MAT_005,ENTITY,PASSAGE,MAT_005,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,24,28
+ENT_KOVALAN,MAT_005,MENTIONED_IN,REL_MENTION_ENT_KOVALAN_MAT_005,ENTITY,PASSAGE,MAT_005,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,24,28
+ENT_M_TARI,MAT_005,MENTIONED_IN,REL_MENTION_ENT_M_TARI_MAT_005,ENTITY,PASSAGE,MAT_005,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,24,28
+ENT_MADHAVI,MAT_005,MENTIONED_IN,REL_MENTION_ENT_MADHAVI_MAT_005,ENTITY,PASSAGE,MAT_005,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,24,28
+ENT_K_VERI,MAT_005,MENTIONED_IN,REL_MENTION_ENT_K_VERI_MAT_005,ENTITY,PASSAGE,MAT_005,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,24,28
+ENT_MADURAI,MAT_005,MENTIONED_IN,REL_MENTION_ENT_MADURAI_MAT_005,ENTITY,PASSAGE,MAT_005,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,24,28
+ENT_FATE_KARMA,MAT_006,MENTIONED_IN,REL_MENTION_ENT_FATE_KARMA_MAT_006,ENTITY,PASSAGE,MAT_006,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,29,33
+ENT_CHASTITY,MAT_006,MENTIONED_IN,REL_MENTION_ENT_CHASTITY_MAT_006,ENTITY,PASSAGE,MAT_006,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,29,33
+ENT_DEITY,MAT_006,MENTIONED_IN,REL_MENTION_ENT_DEITY_MAT_006,ENTITY,PASSAGE,MAT_006,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,29,33
+ENT_ACTION_KARMA,MAT_006,MENTIONED_IN,REL_MENTION_ENT_ACTION_KARMA_MAT_006,ENTITY,PASSAGE,MAT_006,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,29,33
+ENT_COWHERD_WOMEN,MAT_006,MENTIONED_IN,REL_MENTION_ENT_COWHERD_WOMEN_MAT_006,ENTITY,PASSAGE,MAT_006,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,29,33
+ENT_ANKLET,MAT_006,MENTIONED_IN,REL_MENTION_ENT_ANKLET_MAT_006,ENTITY,PASSAGE,MAT_006,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,29,33
+ENT_GOLD,MAT_006,MENTIONED_IN,REL_MENTION_ENT_GOLD_MAT_006,ENTITY,PASSAGE,MAT_006,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,29,33
+ENT_SWORD,MAT_006,MENTIONED_IN,REL_MENTION_ENT_SWORD_MAT_006,ENTITY,PASSAGE,MAT_006,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,29,33
+ENT_KANNAKI,MAT_006,MENTIONED_IN,REL_MENTION_ENT_KANNAKI_MAT_006,ENTITY,PASSAGE,MAT_006,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,29,33
+ENT_KOVALAN,MAT_006,MENTIONED_IN,REL_MENTION_ENT_KOVALAN_MAT_006,ENTITY,PASSAGE,MAT_006,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,29,33
+ENT_QUEEN_CONSORT,MAT_006,MENTIONED_IN,REL_MENTION_ENT_QUEEN_CONSORT_MAT_006,ENTITY,PASSAGE,MAT_006,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,29,33
+ENT_COWHERD_WOMEN,MAT_007,MENTIONED_IN,REL_MENTION_ENT_COWHERD_WOMEN_MAT_007,ENTITY,PASSAGE,MAT_007,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,34,38
+ENT_FLUTE,MAT_007,MENTIONED_IN,REL_MENTION_ENT_FLUTE_MAT_007,ENTITY,PASSAGE,MAT_007,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,34,38
+ENT_GOLD,MAT_007,MENTIONED_IN,REL_MENTION_ENT_GOLD_MAT_007,ENTITY,PASSAGE,MAT_007,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,34,38
+ENT_SWORD,MAT_007,MENTIONED_IN,REL_MENTION_ENT_SWORD_MAT_007,ENTITY,PASSAGE,MAT_007,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,34,38
+ENT_SPEAR,MAT_007,MENTIONED_IN,REL_MENTION_ENT_SPEAR_MAT_007,ENTITY,PASSAGE,MAT_007,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,34,38
+ENT_KANNAKI,MAT_007,MENTIONED_IN,REL_MENTION_ENT_KANNAKI_MAT_007,ENTITY,PASSAGE,MAT_007,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,34,38
+ENT_PANDYAN_KING,MAT_007,MENTIONED_IN,REL_MENTION_ENT_PANDYAN_KING_MAT_007,ENTITY,PASSAGE,MAT_007,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,34,38
+ENT_PUK_R,MAT_007,MENTIONED_IN,REL_MENTION_ENT_PUK_R_MAT_007,ENTITY,PASSAGE,MAT_007,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,34,38
+ENT_VA_CI,MAT_007,MENTIONED_IN,REL_MENTION_ENT_VA_CI_MAT_007,ENTITY,PASSAGE,MAT_007,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,34,38
+ENT_SWORD,MAT_008,MENTIONED_IN,REL_MENTION_ENT_SWORD_MAT_008,ENTITY,PASSAGE,MAT_008,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,39,39
+ENT_DEITY,MAT_009,MENTIONED_IN,REL_MENTION_ENT_DEITY_MAT_009,ENTITY,PASSAGE,MAT_009,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,40,41
+ENT_ACTION_KARMA,MAT_009,MENTIONED_IN,REL_MENTION_ENT_ACTION_KARMA_MAT_009,ENTITY,PASSAGE,MAT_009,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,40,41
+ENT_ANKLET,MAT_009,MENTIONED_IN,REL_MENTION_ENT_ANKLET_MAT_009,ENTITY,PASSAGE,MAT_009,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,40,41
+ENT_GOLD,MAT_009,MENTIONED_IN,REL_MENTION_ENT_GOLD_MAT_009,ENTITY,PASSAGE,MAT_009,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,40,41
+ENT_SWORD,MAT_009,MENTIONED_IN,REL_MENTION_ENT_SWORD_MAT_009,ENTITY,PASSAGE,MAT_009,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,40,41
+ENT_SPEAR,MAT_009,MENTIONED_IN,REL_MENTION_ENT_SPEAR_MAT_009,ENTITY,PASSAGE,MAT_009,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,40,41
+ENT_PANDYAN_KING,MAT_009,MENTIONED_IN,REL_MENTION_ENT_PANDYAN_KING_MAT_009,ENTITY,PASSAGE,MAT_009,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,40,41
+ENT_MADURAI,MAT_009,MENTIONED_IN,REL_MENTION_ENT_MADURAI_MAT_009,ENTITY,PASSAGE,MAT_009,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,40,41
+ENT_FATE_KARMA,MAT_010,MENTIONED_IN,REL_MENTION_ENT_FATE_KARMA_MAT_010,ENTITY,PASSAGE,MAT_010,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,42,44
+ENT_ACTION_KARMA,MAT_010,MENTIONED_IN,REL_MENTION_ENT_ACTION_KARMA_MAT_010,ENTITY,PASSAGE,MAT_010,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,42,44
+ENT_ANKLET,MAT_010,MENTIONED_IN,REL_MENTION_ENT_ANKLET_MAT_010,ENTITY,PASSAGE,MAT_010,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,42,44
+ENT_GOLD,MAT_010,MENTIONED_IN,REL_MENTION_ENT_GOLD_MAT_010,ENTITY,PASSAGE,MAT_010,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,42,44
+ENT_PEARL,MAT_010,MENTIONED_IN,REL_MENTION_ENT_PEARL_MAT_010,ENTITY,PASSAGE,MAT_010,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,42,44
+ENT_KANNAKI,MAT_010,MENTIONED_IN,REL_MENTION_ENT_KANNAKI_MAT_010,ENTITY,PASSAGE,MAT_010,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,42,44
+ENT_KOVALAN,MAT_010,MENTIONED_IN,REL_MENTION_ENT_KOVALAN_MAT_010,ENTITY,PASSAGE,MAT_010,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,42,44
+ENT_QUEEN_CONSORT,MAT_010,MENTIONED_IN,REL_MENTION_ENT_QUEEN_CONSORT_MAT_010,ENTITY,PASSAGE,MAT_010,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,42,44
+ENT_PANDYAN_KING,MAT_010,MENTIONED_IN,REL_MENTION_ENT_PANDYAN_KING_MAT_010,ENTITY,PASSAGE,MAT_010,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,42,44
+ENT_CHASTITY,MAT_011,MENTIONED_IN,REL_MENTION_ENT_CHASTITY_MAT_011,ENTITY,PASSAGE,MAT_011,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,45,45
+ENT_ACTION_KARMA,MAT_011,MENTIONED_IN,REL_MENTION_ENT_ACTION_KARMA_MAT_011,ENTITY,PASSAGE,MAT_011,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,45,45
+ENT_FLUTE,MAT_011,MENTIONED_IN,REL_MENTION_ENT_FLUTE_MAT_011,ENTITY,PASSAGE,MAT_011,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,45,45
+ENT_GOLD,MAT_011,MENTIONED_IN,REL_MENTION_ENT_GOLD_MAT_011,ENTITY,PASSAGE,MAT_011,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,45,45
+ENT_SWORD,MAT_011,MENTIONED_IN,REL_MENTION_ENT_SWORD_MAT_011,ENTITY,PASSAGE,MAT_011,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,45,45
+ENT_QUEEN_CONSORT,MAT_011,MENTIONED_IN,REL_MENTION_ENT_QUEEN_CONSORT_MAT_011,ENTITY,PASSAGE,MAT_011,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,45,45
+ENT_MADURAI,MAT_011,MENTIONED_IN,REL_MENTION_ENT_MADURAI_MAT_011,ENTITY,PASSAGE,MAT_011,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,45,45
+ENT_VA_CI,MAT_011,MENTIONED_IN,REL_MENTION_ENT_VA_CI_MAT_011,ENTITY,PASSAGE,MAT_011,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,45,45
+ENT_DEITY,MAT_012,MENTIONED_IN,REL_MENTION_ENT_DEITY_MAT_012,ENTITY,PASSAGE,MAT_012,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,46,49
+ENT_ACTION_KARMA,MAT_012,MENTIONED_IN,REL_MENTION_ENT_ACTION_KARMA_MAT_012,ENTITY,PASSAGE,MAT_012,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,46,49
+ENT_FLUTE,MAT_012,MENTIONED_IN,REL_MENTION_ENT_FLUTE_MAT_012,ENTITY,PASSAGE,MAT_012,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,46,49
+ENT_GOLD,MAT_012,MENTIONED_IN,REL_MENTION_ENT_GOLD_MAT_012,ENTITY,PASSAGE,MAT_012,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,46,49
+ENT_Y,MAT_012,MENTIONED_IN,REL_MENTION_ENT_Y_MAT_012,ENTITY,PASSAGE,MAT_012,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,46,49
+ENT_SWORD,MAT_012,MENTIONED_IN,REL_MENTION_ENT_SWORD_MAT_012,ENTITY,PASSAGE,MAT_012,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,46,49
+ENT_SPEAR,MAT_012,MENTIONED_IN,REL_MENTION_ENT_SPEAR_MAT_012,ENTITY,PASSAGE,MAT_012,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,46,49
+ENT_QUEEN_CONSORT,MAT_012,MENTIONED_IN,REL_MENTION_ENT_QUEEN_CONSORT_MAT_012,ENTITY,PASSAGE,MAT_012,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,46,49
+ENT_FATE_KARMA,MAT_013,MENTIONED_IN,REL_MENTION_ENT_FATE_KARMA_MAT_013,ENTITY,PASSAGE,MAT_013,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,50,54
+ENT_DEITY,MAT_013,MENTIONED_IN,REL_MENTION_ENT_DEITY_MAT_013,ENTITY,PASSAGE,MAT_013,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,50,54
+ENT_ACTION_KARMA,MAT_013,MENTIONED_IN,REL_MENTION_ENT_ACTION_KARMA_MAT_013,ENTITY,PASSAGE,MAT_013,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,50,54
+ENT_ANKLET,MAT_013,MENTIONED_IN,REL_MENTION_ENT_ANKLET_MAT_013,ENTITY,PASSAGE,MAT_013,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,50,54
+ENT_GOLD,MAT_013,MENTIONED_IN,REL_MENTION_ENT_GOLD_MAT_013,ENTITY,PASSAGE,MAT_013,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,50,54
+ENT_WAR_DRUM,MAT_013,MENTIONED_IN,REL_MENTION_ENT_WAR_DRUM_MAT_013,ENTITY,PASSAGE,MAT_013,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,50,54
+ENT_SWORD,MAT_013,MENTIONED_IN,REL_MENTION_ENT_SWORD_MAT_013,ENTITY,PASSAGE,MAT_013,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,50,54
+ENT_SPEAR,MAT_013,MENTIONED_IN,REL_MENTION_ENT_SPEAR_MAT_013,ENTITY,PASSAGE,MAT_013,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,50,54
+ENT_KANNAKI,MAT_013,MENTIONED_IN,REL_MENTION_ENT_KANNAKI_MAT_013,ENTITY,PASSAGE,MAT_013,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,50,54
+ENT_KOVALAN,MAT_013,MENTIONED_IN,REL_MENTION_ENT_KOVALAN_MAT_013,ENTITY,PASSAGE,MAT_013,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,50,54
+ENT_QUEEN_CONSORT,MAT_013,MENTIONED_IN,REL_MENTION_ENT_QUEEN_CONSORT_MAT_013,ENTITY,PASSAGE,MAT_013,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,50,54
+ENT_PANDYAN_KING,MAT_013,MENTIONED_IN,REL_MENTION_ENT_PANDYAN_KING_MAT_013,ENTITY,PASSAGE,MAT_013,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,50,54
+ENT_BRAHMIN,MAT_013,MENTIONED_IN,REL_MENTION_ENT_BRAHMIN_MAT_013,ENTITY,PASSAGE,MAT_013,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,50,54
+ENT_FOREST,MAT_013,MENTIONED_IN,REL_MENTION_ENT_FOREST_MAT_013,ENTITY,PASSAGE,MAT_013,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,50,54
+ENT_MOUNTAIN,MAT_013,MENTIONED_IN,REL_MENTION_ENT_MOUNTAIN_MAT_013,ENTITY,PASSAGE,MAT_013,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,50,54
+ENT_PUK_R,MAT_013,MENTIONED_IN,REL_MENTION_ENT_PUK_R_MAT_013,ENTITY,PASSAGE,MAT_013,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,50,54
+ENT_MADURAI,MAT_013,MENTIONED_IN,REL_MENTION_ENT_MADURAI_MAT_013,ENTITY,PASSAGE,MAT_013,,Entity surface form is annotated in the corresponding passage.,high,madurai_kandam.pdf,50,54
+ENT_GOLD,PUK_001,MENTIONED_IN,REL_MENTION_ENT_GOLD_PUK_001,ENTITY,PASSAGE,PUK_001,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,5,6
+ENT_WAR_DRUM,PUK_001,MENTIONED_IN,REL_MENTION_ENT_WAR_DRUM_PUK_001,ENTITY,PASSAGE,PUK_001,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,5,6
+ENT_SWORD,PUK_001,MENTIONED_IN,REL_MENTION_ENT_SWORD_PUK_001,ENTITY,PASSAGE,PUK_001,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,5,6
+ENT_SPEAR,PUK_001,MENTIONED_IN,REL_MENTION_ENT_SPEAR_PUK_001,ENTITY,PASSAGE,PUK_001,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,5,6
+ENT_KANNAKI,PUK_001,MENTIONED_IN,REL_MENTION_ENT_KANNAKI_PUK_001,ENTITY,PASSAGE,PUK_001,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,5,6
+ENT_KOVALAN,PUK_001,MENTIONED_IN,REL_MENTION_ENT_KOVALAN_PUK_001,ENTITY,PASSAGE,PUK_001,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,5,6
+ENT_M_N_YKAN,PUK_001,MENTIONED_IN,REL_MENTION_ENT_M_N_YKAN_PUK_001,ENTITY,PASSAGE,PUK_001,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,5,6
+ENT_BRAHMIN,PUK_001,MENTIONED_IN,REL_MENTION_ENT_BRAHMIN_PUK_001,ENTITY,PASSAGE,PUK_001,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,5,6
+ENT_HIMALAYA,PUK_001,MENTIONED_IN,REL_MENTION_ENT_HIMALAYA_PUK_001,ENTITY,PASSAGE,PUK_001,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,5,6
+ENT_K_VERI,PUK_001,MENTIONED_IN,REL_MENTION_ENT_K_VERI_PUK_001,ENTITY,PASSAGE,PUK_001,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,5,6
+ENT_PUK_R,PUK_001,MENTIONED_IN,REL_MENTION_ENT_PUK_R_PUK_001,ENTITY,PASSAGE,PUK_001,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,5,6
+ENT_P_MPUK_R,PUK_001,MENTIONED_IN,REL_MENTION_ENT_P_MPUK_R_PUK_001,ENTITY,PASSAGE,PUK_001,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,5,6
+ENT_POTHIYIL,PUK_001,MENTIONED_IN,REL_MENTION_ENT_POTHIYIL_PUK_001,ENTITY,PASSAGE,PUK_001,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,5,6
+ENT_FLUTE,PUK_002,MENTIONED_IN,REL_MENTION_ENT_FLUTE_PUK_002,ENTITY,PASSAGE,PUK_002,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,7,9
+ENT_GOLD,PUK_002,MENTIONED_IN,REL_MENTION_ENT_GOLD_PUK_002,ENTITY,PASSAGE,PUK_002,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,7,9
+ENT_PEARL,PUK_002,MENTIONED_IN,REL_MENTION_ENT_PEARL_PUK_002,ENTITY,PASSAGE,PUK_002,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,7,9
+ENT_SWORD,PUK_002,MENTIONED_IN,REL_MENTION_ENT_SWORD_PUK_002,ENTITY,PASSAGE,PUK_002,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,7,9
+ENT_SPEAR,PUK_002,MENTIONED_IN,REL_MENTION_ENT_SPEAR_PUK_002,ENTITY,PASSAGE,PUK_002,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,7,9
+ENT_KANNAKI,PUK_002,MENTIONED_IN,REL_MENTION_ENT_KANNAKI_PUK_002,ENTITY,PASSAGE,PUK_002,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,7,9
+ENT_KOVALAN,PUK_002,MENTIONED_IN,REL_MENTION_ENT_KOVALAN_PUK_002,ENTITY,PASSAGE,PUK_002,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,7,9
+ENT_MADHAVI,PUK_002,MENTIONED_IN,REL_MENTION_ENT_MADHAVI_PUK_002,ENTITY,PASSAGE,PUK_002,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,7,9
+ENT_FLUTE,PUK_003,MENTIONED_IN,REL_MENTION_ENT_FLUTE_PUK_003,ENTITY,PASSAGE,PUK_003,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,10,14
+ENT_GOLD,PUK_003,MENTIONED_IN,REL_MENTION_ENT_GOLD_PUK_003,ENTITY,PASSAGE,PUK_003,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,10,14
+ENT_WAR_DRUM,PUK_003,MENTIONED_IN,REL_MENTION_ENT_WAR_DRUM_PUK_003,ENTITY,PASSAGE,PUK_003,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,10,14
+ENT_Y,PUK_003,MENTIONED_IN,REL_MENTION_ENT_Y_PUK_003,ENTITY,PASSAGE,PUK_003,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,10,14
+ENT_KOVALAN,PUK_003,MENTIONED_IN,REL_MENTION_ENT_KOVALAN_PUK_003,ENTITY,PASSAGE,PUK_003,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,10,14
+ENT_MADHAVI,PUK_003,MENTIONED_IN,REL_MENTION_ENT_MADHAVI_PUK_003,ENTITY,PASSAGE,PUK_003,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,10,14
+ENT_PUK_R,PUK_003,MENTIONED_IN,REL_MENTION_ENT_PUK_R_PUK_003,ENTITY,PASSAGE,PUK_003,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,10,14
+ENT_P_MPUK_R,PUK_003,MENTIONED_IN,REL_MENTION_ENT_P_MPUK_R_PUK_003,ENTITY,PASSAGE,PUK_003,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,10,14
+ENT_FLUTE,PUK_004,MENTIONED_IN,REL_MENTION_ENT_FLUTE_PUK_004,ENTITY,PASSAGE,PUK_004,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,15,16
+ENT_ANKLET,PUK_004,MENTIONED_IN,REL_MENTION_ENT_ANKLET_PUK_004,ENTITY,PASSAGE,PUK_004,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,15,16
+ENT_PEARL,PUK_004,MENTIONED_IN,REL_MENTION_ENT_PEARL_PUK_004,ENTITY,PASSAGE,PUK_004,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,15,16
+ENT_SWORD,PUK_004,MENTIONED_IN,REL_MENTION_ENT_SWORD_PUK_004,ENTITY,PASSAGE,PUK_004,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,15,16
+ENT_KANNAKI,PUK_004,MENTIONED_IN,REL_MENTION_ENT_KANNAKI_PUK_004,ENTITY,PASSAGE,PUK_004,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,15,16
+ENT_KOVALAN,PUK_004,MENTIONED_IN,REL_MENTION_ENT_KOVALAN_PUK_004,ENTITY,PASSAGE,PUK_004,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,15,16
+ENT_MADHAVI,PUK_004,MENTIONED_IN,REL_MENTION_ENT_MADHAVI_PUK_004,ENTITY,PASSAGE,PUK_004,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,15,16
+ENT_VIRTUE_DHARMA,PUK_005,MENTIONED_IN,REL_MENTION_ENT_VIRTUE_DHARMA_PUK_005,ENTITY,PASSAGE,PUK_005,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,17,22
+ENT_ACTION_KARMA,PUK_005,MENTIONED_IN,REL_MENTION_ENT_ACTION_KARMA_PUK_005,ENTITY,PASSAGE,PUK_005,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,17,22
+ENT_BRAHMINS,PUK_005,MENTIONED_IN,REL_MENTION_ENT_BRAHMINS_PUK_005,ENTITY,PASSAGE,PUK_005,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,17,22
+ENT_GOLD,PUK_005,MENTIONED_IN,REL_MENTION_ENT_GOLD_PUK_005,ENTITY,PASSAGE,PUK_005,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,17,22
+ENT_PEARL,PUK_005,MENTIONED_IN,REL_MENTION_ENT_PEARL_PUK_005,ENTITY,PASSAGE,PUK_005,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,17,22
+ENT_WAR_DRUM,PUK_005,MENTIONED_IN,REL_MENTION_ENT_WAR_DRUM_PUK_005,ENTITY,PASSAGE,PUK_005,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,17,22
+ENT_Y,PUK_005,MENTIONED_IN,REL_MENTION_ENT_Y_PUK_005,ENTITY,PASSAGE,PUK_005,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,17,22
+ENT_SWORD,PUK_005,MENTIONED_IN,REL_MENTION_ENT_SWORD_PUK_005,ENTITY,PASSAGE,PUK_005,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,17,22
+ENT_SPEAR,PUK_005,MENTIONED_IN,REL_MENTION_ENT_SPEAR_PUK_005,ENTITY,PASSAGE,PUK_005,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,17,22
+ENT_KANNAKI,PUK_005,MENTIONED_IN,REL_MENTION_ENT_KANNAKI_PUK_005,ENTITY,PASSAGE,PUK_005,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,17,22
+ENT_KOVALAN,PUK_005,MENTIONED_IN,REL_MENTION_ENT_KOVALAN_PUK_005,ENTITY,PASSAGE,PUK_005,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,17,22
+ENT_MADHAVI,PUK_005,MENTIONED_IN,REL_MENTION_ENT_MADHAVI_PUK_005,ENTITY,PASSAGE,PUK_005,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,17,22
+ENT_K_VERI,PUK_005,MENTIONED_IN,REL_MENTION_ENT_K_VERI_PUK_005,ENTITY,PASSAGE,PUK_005,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,17,22
+ENT_FATE_KARMA,PUK_006,MENTIONED_IN,REL_MENTION_ENT_FATE_KARMA_PUK_006,ENTITY,PASSAGE,PUK_006,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,23,27
+ENT_ACTION_KARMA,PUK_006,MENTIONED_IN,REL_MENTION_ENT_ACTION_KARMA_PUK_006,ENTITY,PASSAGE,PUK_006,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,23,27
+ENT_GOLD,PUK_006,MENTIONED_IN,REL_MENTION_ENT_GOLD_PUK_006,ENTITY,PASSAGE,PUK_006,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,23,27
+ENT_Y,PUK_006,MENTIONED_IN,REL_MENTION_ENT_Y_PUK_006,ENTITY,PASSAGE,PUK_006,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,23,27
+ENT_SPEAR,PUK_006,MENTIONED_IN,REL_MENTION_ENT_SPEAR_PUK_006,ENTITY,PASSAGE,PUK_006,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,23,27
+ENT_KOVALAN,PUK_006,MENTIONED_IN,REL_MENTION_ENT_KOVALAN_PUK_006,ENTITY,PASSAGE,PUK_006,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,23,27
+ENT_MADHAVI,PUK_006,MENTIONED_IN,REL_MENTION_ENT_MADHAVI_PUK_006,ENTITY,PASSAGE,PUK_006,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,23,27
+ENT_K_VERI,PUK_006,MENTIONED_IN,REL_MENTION_ENT_K_VERI_PUK_006,ENTITY,PASSAGE,PUK_006,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,23,27
+ENT_PUK_R,PUK_006,MENTIONED_IN,REL_MENTION_ENT_PUK_R_PUK_006,ENTITY,PASSAGE,PUK_006,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,23,27
+ENT_FATE_KARMA,PUK_007,MENTIONED_IN,REL_MENTION_ENT_FATE_KARMA_PUK_007,ENTITY,PASSAGE,PUK_007,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,28,35
+ENT_CHASTITY,PUK_007,MENTIONED_IN,REL_MENTION_ENT_CHASTITY_PUK_007,ENTITY,PASSAGE,PUK_007,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,28,35
+ENT_DEITY,PUK_007,MENTIONED_IN,REL_MENTION_ENT_DEITY_PUK_007,ENTITY,PASSAGE,PUK_007,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,28,35
+ENT_ACTION_KARMA,PUK_007,MENTIONED_IN,REL_MENTION_ENT_ACTION_KARMA_PUK_007,ENTITY,PASSAGE,PUK_007,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,28,35
+ENT_GOLD,PUK_007,MENTIONED_IN,REL_MENTION_ENT_GOLD_PUK_007,ENTITY,PASSAGE,PUK_007,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,28,35
+ENT_PEARL,PUK_007,MENTIONED_IN,REL_MENTION_ENT_PEARL_PUK_007,ENTITY,PASSAGE,PUK_007,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,28,35
+ENT_Y,PUK_007,MENTIONED_IN,REL_MENTION_ENT_Y_PUK_007,ENTITY,PASSAGE,PUK_007,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,28,35
+ENT_SWORD,PUK_007,MENTIONED_IN,REL_MENTION_ENT_SWORD_PUK_007,ENTITY,PASSAGE,PUK_007,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,28,35
+ENT_SPEAR,PUK_007,MENTIONED_IN,REL_MENTION_ENT_SPEAR_PUK_007,ENTITY,PASSAGE,PUK_007,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,28,35
+ENT_KOVALAN,PUK_007,MENTIONED_IN,REL_MENTION_ENT_KOVALAN_PUK_007,ENTITY,PASSAGE,PUK_007,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,28,35
+ENT_MADHAVI,PUK_007,MENTIONED_IN,REL_MENTION_ENT_MADHAVI_PUK_007,ENTITY,PASSAGE,PUK_007,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,28,35
+ENT_FOREST,PUK_007,MENTIONED_IN,REL_MENTION_ENT_FOREST_PUK_007,ENTITY,PASSAGE,PUK_007,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,28,35
+ENT_K_VERI,PUK_007,MENTIONED_IN,REL_MENTION_ENT_K_VERI_PUK_007,ENTITY,PASSAGE,PUK_007,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,28,35
+ENT_ANKLET,PUK_008,MENTIONED_IN,REL_MENTION_ENT_ANKLET_PUK_008,ENTITY,PASSAGE,PUK_008,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,36,39
+ENT_PEARL,PUK_008,MENTIONED_IN,REL_MENTION_ENT_PEARL_PUK_008,ENTITY,PASSAGE,PUK_008,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,36,39
+ENT_Y,PUK_008,MENTIONED_IN,REL_MENTION_ENT_Y_PUK_008,ENTITY,PASSAGE,PUK_008,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,36,39
+ENT_SWORD,PUK_008,MENTIONED_IN,REL_MENTION_ENT_SWORD_PUK_008,ENTITY,PASSAGE,PUK_008,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,36,39
+ENT_SPEAR,PUK_008,MENTIONED_IN,REL_MENTION_ENT_SPEAR_PUK_008,ENTITY,PASSAGE,PUK_008,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,36,39
+ENT_KOVALAN,PUK_008,MENTIONED_IN,REL_MENTION_ENT_KOVALAN_PUK_008,ENTITY,PASSAGE,PUK_008,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,36,39
+ENT_MADHAVI,PUK_008,MENTIONED_IN,REL_MENTION_ENT_MADHAVI_PUK_008,ENTITY,PASSAGE,PUK_008,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,36,39
+ENT_POTHIYIL,PUK_008,MENTIONED_IN,REL_MENTION_ENT_POTHIYIL_PUK_008,ENTITY,PASSAGE,PUK_008,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,36,39
+ENT_MADURAI,PUK_008,MENTIONED_IN,REL_MENTION_ENT_MADURAI_PUK_008,ENTITY,PASSAGE,PUK_008,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,36,39
+ENT_VA_CI,PUK_008,MENTIONED_IN,REL_MENTION_ENT_VA_CI_PUK_008,ENTITY,PASSAGE,PUK_008,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,36,39
+ENT_ACTION_KARMA,PUK_009,MENTIONED_IN,REL_MENTION_ENT_ACTION_KARMA_PUK_009,ENTITY,PASSAGE,PUK_009,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,40,41
+ENT_ANKLET,PUK_009,MENTIONED_IN,REL_MENTION_ENT_ANKLET_PUK_009,ENTITY,PASSAGE,PUK_009,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,40,41
+ENT_SPEAR,PUK_009,MENTIONED_IN,REL_MENTION_ENT_SPEAR_PUK_009,ENTITY,PASSAGE,PUK_009,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,40,41
+ENT_KANNAKI,PUK_009,MENTIONED_IN,REL_MENTION_ENT_KANNAKI_PUK_009,ENTITY,PASSAGE,PUK_009,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,40,41
+ENT_KOVALAN,PUK_009,MENTIONED_IN,REL_MENTION_ENT_KOVALAN_PUK_009,ENTITY,PASSAGE,PUK_009,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,40,41
+ENT_MADHAVI,PUK_009,MENTIONED_IN,REL_MENTION_ENT_MADHAVI_PUK_009,ENTITY,PASSAGE,PUK_009,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,40,41
+ENT_QUEEN_CONSORT,PUK_009,MENTIONED_IN,REL_MENTION_ENT_QUEEN_CONSORT_PUK_009,ENTITY,PASSAGE,PUK_009,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,40,41
+ENT_K_VERI,PUK_009,MENTIONED_IN,REL_MENTION_ENT_K_VERI_PUK_009,ENTITY,PASSAGE,PUK_009,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,40,41
+ENT_MOUNTAIN,PUK_009,MENTIONED_IN,REL_MENTION_ENT_MOUNTAIN_PUK_009,ENTITY,PASSAGE,PUK_009,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,40,41
+ENT_MADURAI,PUK_009,MENTIONED_IN,REL_MENTION_ENT_MADURAI_PUK_009,ENTITY,PASSAGE,PUK_009,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,40,41
+ENT_VIRTUE_DHARMA,PUK_010,MENTIONED_IN,REL_MENTION_ENT_VIRTUE_DHARMA_PUK_010,ENTITY,PASSAGE,PUK_010,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,42,48
+ENT_FATE_KARMA,PUK_010,MENTIONED_IN,REL_MENTION_ENT_FATE_KARMA_PUK_010,ENTITY,PASSAGE,PUK_010,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,42,48
+ENT_DEITY,PUK_010,MENTIONED_IN,REL_MENTION_ENT_DEITY_PUK_010,ENTITY,PASSAGE,PUK_010,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,42,48
+ENT_ACTION_KARMA,PUK_010,MENTIONED_IN,REL_MENTION_ENT_ACTION_KARMA_PUK_010,ENTITY,PASSAGE,PUK_010,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,42,48
+ENT_BRAHMINS,PUK_010,MENTIONED_IN,REL_MENTION_ENT_BRAHMINS_PUK_010,ENTITY,PASSAGE,PUK_010,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,42,48
+ENT_KANNAKI,PUK_010,MENTIONED_IN,REL_MENTION_ENT_KANNAKI_PUK_010,ENTITY,PASSAGE,PUK_010,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,42,48
+ENT_KAVUNTI,PUK_010,MENTIONED_IN,REL_MENTION_ENT_KAVUNTI_PUK_010,ENTITY,PASSAGE,PUK_010,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,42,48
+ENT_KOVALAN,PUK_010,MENTIONED_IN,REL_MENTION_ENT_KOVALAN_PUK_010,ENTITY,PASSAGE,PUK_010,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,42,48
+ENT_QUEEN_CONSORT,PUK_010,MENTIONED_IN,REL_MENTION_ENT_QUEEN_CONSORT_PUK_010,ENTITY,PASSAGE,PUK_010,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,42,48
+ENT_FOREST,PUK_010,MENTIONED_IN,REL_MENTION_ENT_FOREST_PUK_010,ENTITY,PASSAGE,PUK_010,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,42,48
+ENT_K_VERI,PUK_010,MENTIONED_IN,REL_MENTION_ENT_K_VERI_PUK_010,ENTITY,PASSAGE,PUK_010,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,42,48
+ENT_PUK_R,PUK_010,MENTIONED_IN,REL_MENTION_ENT_PUK_R_PUK_010,ENTITY,PASSAGE,PUK_010,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,42,48
+ENT_MADURAI,PUK_010,MENTIONED_IN,REL_MENTION_ENT_MADURAI_PUK_010,ENTITY,PASSAGE,PUK_010,,Entity surface form is annotated in the corresponding passage.,high,pugar_kandam.pdf,42,48
+ENT_DEITY,VAN_001,MENTIONED_IN,REL_MENTION_ENT_DEITY_VAN_001,ENTITY,PASSAGE,VAN_001,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,3,6
+ENT_ACTION_KARMA,VAN_001,MENTIONED_IN,REL_MENTION_ENT_ACTION_KARMA_VAN_001,ENTITY,PASSAGE,VAN_001,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,3,6
+ENT_GOLD,VAN_001,MENTIONED_IN,REL_MENTION_ENT_GOLD_VAN_001,ENTITY,PASSAGE,VAN_001,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,3,6
+ENT_MOUNTAIN,VAN_001,MENTIONED_IN,REL_MENTION_ENT_MOUNTAIN_VAN_001,ENTITY,PASSAGE,VAN_001,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,3,6
+ENT_MADURAI,VAN_001,MENTIONED_IN,REL_MENTION_ENT_MADURAI_VAN_001,ENTITY,PASSAGE,VAN_001,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,3,6
+ENT_ACTION_KARMA,VAN_002,MENTIONED_IN,REL_MENTION_ENT_ACTION_KARMA_VAN_002,ENTITY,PASSAGE,VAN_002,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,7,10
+ENT_ANKLET,VAN_002,MENTIONED_IN,REL_MENTION_ENT_ANKLET_VAN_002,ENTITY,PASSAGE,VAN_002,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,7,10
+ENT_GOLD,VAN_002,MENTIONED_IN,REL_MENTION_ENT_GOLD_VAN_002,ENTITY,PASSAGE,VAN_002,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,7,10
+ENT_SWORD,VAN_002,MENTIONED_IN,REL_MENTION_ENT_SWORD_VAN_002,ENTITY,PASSAGE,VAN_002,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,7,10
+ENT_SPEAR,VAN_002,MENTIONED_IN,REL_MENTION_ENT_SPEAR_VAN_002,ENTITY,PASSAGE,VAN_002,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,7,10
+ENT_QUEEN_CONSORT,VAN_002,MENTIONED_IN,REL_MENTION_ENT_QUEEN_CONSORT_VAN_002,ENTITY,PASSAGE,VAN_002,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,7,10
+ENT_K_VERI,VAN_002,MENTIONED_IN,REL_MENTION_ENT_K_VERI_VAN_002,ENTITY,PASSAGE,VAN_002,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,7,10
+ENT_MADURAI,VAN_002,MENTIONED_IN,REL_MENTION_ENT_MADURAI_VAN_002,ENTITY,PASSAGE,VAN_002,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,7,10
+ENT_VA_CI,VAN_002,MENTIONED_IN,REL_MENTION_ENT_VA_CI_VAN_002,ENTITY,PASSAGE,VAN_002,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,7,10
+ENT_ACTION_KARMA,VAN_003,MENTIONED_IN,REL_MENTION_ENT_ACTION_KARMA_VAN_003,ENTITY,PASSAGE,VAN_003,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,11,16
+ENT_PEARL,VAN_003,MENTIONED_IN,REL_MENTION_ENT_PEARL_VAN_003,ENTITY,PASSAGE,VAN_003,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,11,16
+ENT_Y,VAN_003,MENTIONED_IN,REL_MENTION_ENT_Y_VAN_003,ENTITY,PASSAGE,VAN_003,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,11,16
+ENT_SWORD,VAN_003,MENTIONED_IN,REL_MENTION_ENT_SWORD_VAN_003,ENTITY,PASSAGE,VAN_003,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,11,16
+ENT_VA_CI,VAN_003,MENTIONED_IN,REL_MENTION_ENT_VA_CI_VAN_003,ENTITY,PASSAGE,VAN_003,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,11,16
+ENT_FATE_KARMA,VAN_004,MENTIONED_IN,REL_MENTION_ENT_FATE_KARMA_VAN_004,ENTITY,PASSAGE,VAN_004,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,17,21
+ENT_ACTION_KARMA,VAN_004,MENTIONED_IN,REL_MENTION_ENT_ACTION_KARMA_VAN_004,ENTITY,PASSAGE,VAN_004,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,17,21
+ENT_FLUTE,VAN_004,MENTIONED_IN,REL_MENTION_ENT_FLUTE_VAN_004,ENTITY,PASSAGE,VAN_004,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,17,21
+ENT_GOLD,VAN_004,MENTIONED_IN,REL_MENTION_ENT_GOLD_VAN_004,ENTITY,PASSAGE,VAN_004,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,17,21
+ENT_PEARL,VAN_004,MENTIONED_IN,REL_MENTION_ENT_PEARL_VAN_004,ENTITY,PASSAGE,VAN_004,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,17,21
+ENT_Y,VAN_004,MENTIONED_IN,REL_MENTION_ENT_Y_VAN_004,ENTITY,PASSAGE,VAN_004,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,17,21
+ENT_SWORD,VAN_004,MENTIONED_IN,REL_MENTION_ENT_SWORD_VAN_004,ENTITY,PASSAGE,VAN_004,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,17,21
+ENT_SPEAR,VAN_004,MENTIONED_IN,REL_MENTION_ENT_SPEAR_VAN_004,ENTITY,PASSAGE,VAN_004,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,17,21
+ENT_KANNAKI,VAN_004,MENTIONED_IN,REL_MENTION_ENT_KANNAKI_VAN_004,ENTITY,PASSAGE,VAN_004,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,17,21
+ENT_KAVUNTI,VAN_004,MENTIONED_IN,REL_MENTION_ENT_KAVUNTI_VAN_004,ENTITY,PASSAGE,VAN_004,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,17,21
+ENT_KOVALAN,VAN_004,MENTIONED_IN,REL_MENTION_ENT_KOVALAN_VAN_004,ENTITY,PASSAGE,VAN_004,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,17,21
+ENT_M_TARI,VAN_004,MENTIONED_IN,REL_MENTION_ENT_M_TARI_VAN_004,ENTITY,PASSAGE,VAN_004,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,17,21
+ENT_MADHAVI,VAN_004,MENTIONED_IN,REL_MENTION_ENT_MADHAVI_VAN_004,ENTITY,PASSAGE,VAN_004,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,17,21
+ENT_QUEEN_CONSORT,VAN_004,MENTIONED_IN,REL_MENTION_ENT_QUEEN_CONSORT_VAN_004,ENTITY,PASSAGE,VAN_004,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,17,21
+ENT_FOREST,VAN_004,MENTIONED_IN,REL_MENTION_ENT_FOREST_VAN_004,ENTITY,PASSAGE,VAN_004,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,17,21
+ENT_K_VERI,VAN_004,MENTIONED_IN,REL_MENTION_ENT_K_VERI_VAN_004,ENTITY,PASSAGE,VAN_004,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,17,21
+ENT_MADURAI,VAN_004,MENTIONED_IN,REL_MENTION_ENT_MADURAI_VAN_004,ENTITY,PASSAGE,VAN_004,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,17,21
+ENT_VA_CI,VAN_004,MENTIONED_IN,REL_MENTION_ENT_VA_CI_VAN_004,ENTITY,PASSAGE,VAN_004,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,17,21
+ENT_CHASTITY,VAN_005,MENTIONED_IN,REL_MENTION_ENT_CHASTITY_VAN_005,ENTITY,PASSAGE,VAN_005,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,22,26
+ENT_DEITY,VAN_005,MENTIONED_IN,REL_MENTION_ENT_DEITY_VAN_005,ENTITY,PASSAGE,VAN_005,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,22,26
+ENT_ACTION_KARMA,VAN_005,MENTIONED_IN,REL_MENTION_ENT_ACTION_KARMA_VAN_005,ENTITY,PASSAGE,VAN_005,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,22,26
+ENT_BRAHMINS,VAN_005,MENTIONED_IN,REL_MENTION_ENT_BRAHMINS_VAN_005,ENTITY,PASSAGE,VAN_005,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,22,26
+ENT_FLUTE,VAN_005,MENTIONED_IN,REL_MENTION_ENT_FLUTE_VAN_005,ENTITY,PASSAGE,VAN_005,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,22,26
+ENT_ANKLET,VAN_005,MENTIONED_IN,REL_MENTION_ENT_ANKLET_VAN_005,ENTITY,PASSAGE,VAN_005,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,22,26
+ENT_GOLD,VAN_005,MENTIONED_IN,REL_MENTION_ENT_GOLD_VAN_005,ENTITY,PASSAGE,VAN_005,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,22,26
+ENT_Y,VAN_005,MENTIONED_IN,REL_MENTION_ENT_Y_VAN_005,ENTITY,PASSAGE,VAN_005,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,22,26
+ENT_SWORD,VAN_005,MENTIONED_IN,REL_MENTION_ENT_SWORD_VAN_005,ENTITY,PASSAGE,VAN_005,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,22,26
+ENT_SPEAR,VAN_005,MENTIONED_IN,REL_MENTION_ENT_SPEAR_VAN_005,ENTITY,PASSAGE,VAN_005,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,22,26
+ENT_BRAHMIN,VAN_005,MENTIONED_IN,REL_MENTION_ENT_BRAHMIN_VAN_005,ENTITY,PASSAGE,VAN_005,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,22,26
+ENT_MADURAI,VAN_005,MENTIONED_IN,REL_MENTION_ENT_MADURAI_VAN_005,ENTITY,PASSAGE,VAN_005,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,22,26
+ENT_VA_CI,VAN_005,MENTIONED_IN,REL_MENTION_ENT_VA_CI_VAN_005,ENTITY,PASSAGE,VAN_005,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,22,26
+ENT_VIRTUE_DHARMA,VAN_006,MENTIONED_IN,REL_MENTION_ENT_VIRTUE_DHARMA_VAN_006,ENTITY,PASSAGE,VAN_006,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,27,32
+ENT_CHASTITY,VAN_006,MENTIONED_IN,REL_MENTION_ENT_CHASTITY_VAN_006,ENTITY,PASSAGE,VAN_006,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,27,32
+ENT_ACTION_KARMA,VAN_006,MENTIONED_IN,REL_MENTION_ENT_ACTION_KARMA_VAN_006,ENTITY,PASSAGE,VAN_006,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,27,32
+ENT_GOLD,VAN_006,MENTIONED_IN,REL_MENTION_ENT_GOLD_VAN_006,ENTITY,PASSAGE,VAN_006,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,27,32
+ENT_SWORD,VAN_006,MENTIONED_IN,REL_MENTION_ENT_SWORD_VAN_006,ENTITY,PASSAGE,VAN_006,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,27,32
+ENT_KANNAKI,VAN_006,MENTIONED_IN,REL_MENTION_ENT_KANNAKI_VAN_006,ENTITY,PASSAGE,VAN_006,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,27,32
+ENT_KOVALAN,VAN_006,MENTIONED_IN,REL_MENTION_ENT_KOVALAN_VAN_006,ENTITY,PASSAGE,VAN_006,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,27,32
+ENT_CE_KU_UVAN,VAN_006,MENTIONED_IN,REL_MENTION_ENT_CE_KU_UVAN_VAN_006,ENTITY,PASSAGE,VAN_006,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,27,32
+ENT_M_S_TTUV_N,VAN_006,MENTIONED_IN,REL_MENTION_ENT_M_S_TTUV_N_VAN_006,ENTITY,PASSAGE,VAN_006,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,27,32
+ENT_MADHAVI,VAN_006,MENTIONED_IN,REL_MENTION_ENT_MADHAVI_VAN_006,ENTITY,PASSAGE,VAN_006,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,27,32
+ENT_M_N_YKAN,VAN_006,MENTIONED_IN,REL_MENTION_ENT_M_N_YKAN_VAN_006,ENTITY,PASSAGE,VAN_006,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,27,32
+ENT_PANDYAN_KING,VAN_006,MENTIONED_IN,REL_MENTION_ENT_PANDYAN_KING_VAN_006,ENTITY,PASSAGE,VAN_006,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,27,32
+ENT_K_VERI,VAN_006,MENTIONED_IN,REL_MENTION_ENT_K_VERI_VAN_006,ENTITY,PASSAGE,VAN_006,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,27,32
+ENT_PUK_R,VAN_006,MENTIONED_IN,REL_MENTION_ENT_PUK_R_VAN_006,ENTITY,PASSAGE,VAN_006,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,27,32
+ENT_P_MPUK_R,VAN_006,MENTIONED_IN,REL_MENTION_ENT_P_MPUK_R_VAN_006,ENTITY,PASSAGE,VAN_006,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,27,32
+ENT_MADURAI,VAN_006,MENTIONED_IN,REL_MENTION_ENT_MADURAI_VAN_006,ENTITY,PASSAGE,VAN_006,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,27,32
+ENT_VA_CI,VAN_006,MENTIONED_IN,REL_MENTION_ENT_VA_CI_VAN_006,ENTITY,PASSAGE,VAN_006,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,27,32
+ENT_VIRTUE_DHARMA,VAN_007,MENTIONED_IN,REL_MENTION_ENT_VIRTUE_DHARMA_VAN_007,ENTITY,PASSAGE,VAN_007,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,33,37
+ENT_ACTION_KARMA,VAN_007,MENTIONED_IN,REL_MENTION_ENT_ACTION_KARMA_VAN_007,ENTITY,PASSAGE,VAN_007,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,33,37
+ENT_GOLD,VAN_007,MENTIONED_IN,REL_MENTION_ENT_GOLD_VAN_007,ENTITY,PASSAGE,VAN_007,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,33,37
+ENT_SWORD,VAN_007,MENTIONED_IN,REL_MENTION_ENT_SWORD_VAN_007,ENTITY,PASSAGE,VAN_007,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,33,37
+ENT_MADHAVI,VAN_007,MENTIONED_IN,REL_MENTION_ENT_MADHAVI_VAN_007,ENTITY,PASSAGE,VAN_007,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,33,37
+ENT_MOUNTAIN,VAN_007,MENTIONED_IN,REL_MENTION_ENT_MOUNTAIN_VAN_007,ENTITY,PASSAGE,VAN_007,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,33,37
+ENT_VA_CI,VAN_007,MENTIONED_IN,REL_MENTION_ENT_VA_CI_VAN_007,ENTITY,PASSAGE,VAN_007,,Entity surface form is annotated in the corresponding passage.,high,vanchi_kandam.pdf,33,37
+EVT_PUK_001,PUK_001,OCCURS_IN,REL_EVENT_EVT_PUK_001_PUK_001,EVENT,PASSAGE,PUK_001,EVT_PUK_001,Event is the principal event annotation for the corresponding passage.,high,pugar_kandam.pdf,5,6
+EVT_PUK_002,PUK_002,OCCURS_IN,REL_EVENT_EVT_PUK_002_PUK_002,EVENT,PASSAGE,PUK_002,EVT_PUK_002,Event is the principal event annotation for the corresponding passage.,high,pugar_kandam.pdf,7,9
+EVT_PUK_003,PUK_003,OCCURS_IN,REL_EVENT_EVT_PUK_003_PUK_003,EVENT,PASSAGE,PUK_003,EVT_PUK_003,Event is the principal event annotation for the corresponding passage.,high,pugar_kandam.pdf,10,14
+EVT_PUK_004,PUK_004,OCCURS_IN,REL_EVENT_EVT_PUK_004_PUK_004,EVENT,PASSAGE,PUK_004,EVT_PUK_004,Event is the principal event annotation for the corresponding passage.,high,pugar_kandam.pdf,15,16
+EVT_PUK_005,PUK_005,OCCURS_IN,REL_EVENT_EVT_PUK_005_PUK_005,EVENT,PASSAGE,PUK_005,EVT_PUK_005,Event is the principal event annotation for the corresponding passage.,high,pugar_kandam.pdf,17,22
+EVT_PUK_006,PUK_006,OCCURS_IN,REL_EVENT_EVT_PUK_006_PUK_006,EVENT,PASSAGE,PUK_006,EVT_PUK_006,Event is the principal event annotation for the corresponding passage.,high,pugar_kandam.pdf,23,27
+EVT_PUK_007,PUK_007,OCCURS_IN,REL_EVENT_EVT_PUK_007_PUK_007,EVENT,PASSAGE,PUK_007,EVT_PUK_007,Event is the principal event annotation for the corresponding passage.,high,pugar_kandam.pdf,28,35
+EVT_PUK_008,PUK_008,OCCURS_IN,REL_EVENT_EVT_PUK_008_PUK_008,EVENT,PASSAGE,PUK_008,EVT_PUK_008,Event is the principal event annotation for the corresponding passage.,high,pugar_kandam.pdf,36,39
+EVT_PUK_009,PUK_009,OCCURS_IN,REL_EVENT_EVT_PUK_009_PUK_009,EVENT,PASSAGE,PUK_009,EVT_PUK_009,Event is the principal event annotation for the corresponding passage.,high,pugar_kandam.pdf,40,41
+EVT_PUK_010,PUK_010,OCCURS_IN,REL_EVENT_EVT_PUK_010_PUK_010,EVENT,PASSAGE,PUK_010,EVT_PUK_010,Event is the principal event annotation for the corresponding passage.,high,pugar_kandam.pdf,42,48
+EVT_MAT_001,MAT_001,OCCURS_IN,REL_EVENT_EVT_MAT_001_MAT_001,EVENT,PASSAGE,MAT_001,EVT_MAT_001,Event is the principal event annotation for the corresponding passage.,high,madurai_kandam.pdf,3,8
+EVT_MAT_002,MAT_002,OCCURS_IN,REL_EVENT_EVT_MAT_002_MAT_002,EVENT,PASSAGE,MAT_002,EVT_MAT_002,Event is the principal event annotation for the corresponding passage.,high,madurai_kandam.pdf,9,13
+EVT_MAT_003,MAT_003,OCCURS_IN,REL_EVENT_EVT_MAT_003_MAT_003,EVENT,PASSAGE,MAT_003,EVT_MAT_003,Event is the principal event annotation for the corresponding passage.,high,madurai_kandam.pdf,14,18
+EVT_MAT_004,MAT_004,OCCURS_IN,REL_EVENT_EVT_MAT_004_MAT_004,EVENT,PASSAGE,MAT_004,EVT_MAT_004,Event is the principal event annotation for the corresponding passage.,high,madurai_kandam.pdf,19,23
+EVT_MAT_005,MAT_005,OCCURS_IN,REL_EVENT_EVT_MAT_005_MAT_005,EVENT,PASSAGE,MAT_005,EVT_MAT_005,Event is the principal event annotation for the corresponding passage.,high,madurai_kandam.pdf,24,28
+EVT_MAT_006,MAT_006,OCCURS_IN,REL_EVENT_EVT_MAT_006_MAT_006,EVENT,PASSAGE,MAT_006,EVT_MAT_006,Event is the principal event annotation for the corresponding passage.,high,madurai_kandam.pdf,29,33
+EVT_MAT_007,MAT_007,OCCURS_IN,REL_EVENT_EVT_MAT_007_MAT_007,EVENT,PASSAGE,MAT_007,EVT_MAT_007,Event is the principal event annotation for the corresponding passage.,high,madurai_kandam.pdf,34,38
+EVT_MAT_008,MAT_008,OCCURS_IN,REL_EVENT_EVT_MAT_008_MAT_008,EVENT,PASSAGE,MAT_008,EVT_MAT_008,Event is the principal event annotation for the corresponding passage.,high,madurai_kandam.pdf,39,39
+EVT_MAT_009,MAT_009,OCCURS_IN,REL_EVENT_EVT_MAT_009_MAT_009,EVENT,PASSAGE,MAT_009,EVT_MAT_009,Event is the principal event annotation for the corresponding passage.,high,madurai_kandam.pdf,40,41
+EVT_MAT_010,MAT_010,OCCURS_IN,REL_EVENT_EVT_MAT_010_MAT_010,EVENT,PASSAGE,MAT_010,EVT_MAT_010,Event is the principal event annotation for the corresponding passage.,high,madurai_kandam.pdf,42,44
+EVT_MAT_011,MAT_011,OCCURS_IN,REL_EVENT_EVT_MAT_011_MAT_011,EVENT,PASSAGE,MAT_011,EVT_MAT_011,Event is the principal event annotation for the corresponding passage.,high,madurai_kandam.pdf,45,45
+EVT_MAT_012,MAT_012,OCCURS_IN,REL_EVENT_EVT_MAT_012_MAT_012,EVENT,PASSAGE,MAT_012,EVT_MAT_012,Event is the principal event annotation for the corresponding passage.,high,madurai_kandam.pdf,46,49
+EVT_MAT_013,MAT_013,OCCURS_IN,REL_EVENT_EVT_MAT_013_MAT_013,EVENT,PASSAGE,MAT_013,EVT_MAT_013,Event is the principal event annotation for the corresponding passage.,high,madurai_kandam.pdf,50,54
+EVT_VAN_001,VAN_001,OCCURS_IN,REL_EVENT_EVT_VAN_001_VAN_001,EVENT,PASSAGE,VAN_001,EVT_VAN_001,Event is the principal event annotation for the corresponding passage.,high,vanchi_kandam.pdf,3,6
+EVT_VAN_002,VAN_002,OCCURS_IN,REL_EVENT_EVT_VAN_002_VAN_002,EVENT,PASSAGE,VAN_002,EVT_VAN_002,Event is the principal event annotation for the corresponding passage.,high,vanchi_kandam.pdf,7,10
+EVT_VAN_003,VAN_003,OCCURS_IN,REL_EVENT_EVT_VAN_003_VAN_003,EVENT,PASSAGE,VAN_003,EVT_VAN_003,Event is the principal event annotation for the corresponding passage.,high,vanchi_kandam.pdf,11,16
+EVT_VAN_004,VAN_004,OCCURS_IN,REL_EVENT_EVT_VAN_004_VAN_004,EVENT,PASSAGE,VAN_004,EVT_VAN_004,Event is the principal event annotation for the corresponding passage.,high,vanchi_kandam.pdf,17,21
+EVT_VAN_005,VAN_005,OCCURS_IN,REL_EVENT_EVT_VAN_005_VAN_005,EVENT,PASSAGE,VAN_005,EVT_VAN_005,Event is the principal event annotation for the corresponding passage.,high,vanchi_kandam.pdf,22,26
+EVT_VAN_006,VAN_006,OCCURS_IN,REL_EVENT_EVT_VAN_006_VAN_006,EVENT,PASSAGE,VAN_006,EVT_VAN_006,Event is the principal event annotation for the corresponding passage.,high,vanchi_kandam.pdf,27,32
+EVT_VAN_007,VAN_007,OCCURS_IN,REL_EVENT_EVT_VAN_007_VAN_007,EVENT,PASSAGE,VAN_007,EVT_VAN_007,Event is the principal event annotation for the corresponding passage.,high,vanchi_kandam.pdf,33,37
+ENT_MADHAVI,EVT_PUK_003,PARTICIPATES_IN,REL_EVT_PUK_003_PARTICIPATES_IN_ENT_MADHAVI,ENTITY,EVENT,PUK_003,EVT_PUK_003,High-confidence event/entity association grounded in the passage annotation.,high,pugar_kandam.pdf,10,14
+ENT_KOVALAN,EVT_PUK_007,PARTICIPATES_IN,REL_EVT_PUK_007_PARTICIPATES_IN_ENT_KOVALAN,ENTITY,EVENT,PUK_007,EVT_PUK_007,High-confidence event/entity association grounded in the passage annotation.,high,pugar_kandam.pdf,28,35
+ENT_MADHAVI,EVT_PUK_007,PARTICIPATES_IN,REL_EVT_PUK_007_PARTICIPATES_IN_ENT_MADHAVI,ENTITY,EVENT,PUK_007,EVT_PUK_007,High-confidence event/entity association grounded in the passage annotation.,high,pugar_kandam.pdf,28,35
+ENT_KOVALAN,EVT_PUK_010,PARTICIPATES_IN,REL_EVT_PUK_010_PARTICIPATES_IN_ENT_KOVALAN,ENTITY,EVENT,PUK_010,EVT_PUK_010,High-confidence event/entity association grounded in the passage annotation.,high,pugar_kandam.pdf,42,48
+ENT_KANNAKI,EVT_PUK_010,PARTICIPATES_IN,REL_EVT_PUK_010_PARTICIPATES_IN_ENT_KANNAKI,ENTITY,EVENT,PUK_010,EVT_PUK_010,High-confidence event/entity association grounded in the passage annotation.,high,pugar_kandam.pdf,42,48
+ENT_MADURAI,EVT_PUK_010,DESTINATION_OF,REL_EVT_PUK_010_DESTINATION_OF_ENT_MADURAI,ENTITY,EVENT,PUK_010,EVT_PUK_010,High-confidence event/entity association grounded in the passage annotation.,high,pugar_kandam.pdf,42,48
+ENT_KOVALAN,EVT_MAT_001,PARTICIPATES_IN,REL_EVT_MAT_001_PARTICIPATES_IN_ENT_KOVALAN,ENTITY,EVENT,MAT_001,EVT_MAT_001,High-confidence event/entity association grounded in the passage annotation.,high,madurai_kandam.pdf,3,8
+ENT_KAVUNTI,EVT_MAT_001,PARTICIPATES_IN,REL_EVT_MAT_001_PARTICIPATES_IN_ENT_KAVUNTI,ENTITY,EVENT,MAT_001,EVT_MAT_001,High-confidence event/entity association grounded in the passage annotation.,high,madurai_kandam.pdf,3,8
+ENT_FOREST,EVT_MAT_001,LOCATION_OF,REL_EVT_MAT_001_LOCATION_OF_ENT_FOREST,ENTITY,EVENT,MAT_001,EVT_MAT_001,High-confidence event/entity association grounded in the passage annotation.,high,madurai_kandam.pdf,3,8
+ENT_MADURAI,EVT_MAT_001,DESTINATION_OF,REL_EVT_MAT_001_DESTINATION_OF_ENT_MADURAI,ENTITY,EVENT,MAT_001,EVT_MAT_001,High-confidence event/entity association grounded in the passage annotation.,high,madurai_kandam.pdf,3,8
+ENT_KOVALAN,EVT_MAT_003,PARTICIPATES_IN,REL_EVT_MAT_003_PARTICIPATES_IN_ENT_KOVALAN,ENTITY,EVENT,MAT_003,EVT_MAT_003,High-confidence event/entity association grounded in the passage annotation.,high,madurai_kandam.pdf,14,18
+ENT_MADHAVI,EVT_MAT_003,MENTIONED_IN_EVENT,REL_EVT_MAT_003_MENTIONED_IN_EVENT_ENT_MADHAVI,ENTITY,EVENT,MAT_003,EVT_MAT_003,High-confidence event/entity association grounded in the passage annotation.,high,madurai_kandam.pdf,14,18
+ENT_MADURAI,EVT_MAT_003,LOCATION_OF,REL_EVT_MAT_003_LOCATION_OF_ENT_MADURAI,ENTITY,EVENT,MAT_003,EVT_MAT_003,High-confidence event/entity association grounded in the passage annotation.,high,madurai_kandam.pdf,14,18
+ENT_KOVALAN,EVT_MAT_004,PARTICIPATES_IN,REL_EVT_MAT_004_PARTICIPATES_IN_ENT_KOVALAN,ENTITY,EVENT,MAT_004,EVT_MAT_004,High-confidence event/entity association grounded in the passage annotation.,high,madurai_kandam.pdf,19,23
+ENT_KOVALAN,EVT_MAT_005,PARTICIPATES_IN,REL_EVT_MAT_005_PARTICIPATES_IN_ENT_KOVALAN,ENTITY,EVENT,MAT_005,EVT_MAT_005,High-confidence event/entity association grounded in the passage annotation.,high,madurai_kandam.pdf,24,28
+ENT_KOVALAN,EVT_MAT_006,PARTICIPATES_IN,REL_EVT_MAT_006_PARTICIPATES_IN_ENT_KOVALAN,ENTITY,EVENT,MAT_006,EVT_MAT_006,High-confidence event/entity association grounded in the passage annotation.,high,madurai_kandam.pdf,29,33
+ENT_ANKLET,EVT_MAT_006,SUBJECT_OF,REL_EVT_MAT_006_SUBJECT_OF_ENT_ANKLET,ENTITY,EVENT,MAT_006,EVT_MAT_006,High-confidence event/entity association grounded in the passage annotation.,high,madurai_kandam.pdf,29,33
+ENT_MADURAI,EVT_MAT_009,SUBJECT_OF,REL_EVT_MAT_009_SUBJECT_OF_ENT_MADURAI,ENTITY,EVENT,MAT_009,EVT_MAT_009,High-confidence event/entity association grounded in the passage annotation.,high,madurai_kandam.pdf,40,41
+ENT_KANNAKI,EVT_MAT_010,PRESENTS_EVIDENCE,REL_EVT_MAT_010_PRESENTS_EVIDENCE_ENT_KANNAKI,ENTITY,EVENT,MAT_010,EVT_MAT_010,High-confidence event/entity association grounded in the passage annotation.,high,madurai_kandam.pdf,42,44
+ENT_KOVALAN,EVT_MAT_010,SUBJECT_OF,REL_EVT_MAT_010_SUBJECT_OF_ENT_KOVALAN,ENTITY,EVENT,MAT_010,EVT_MAT_010,High-confidence event/entity association grounded in the passage annotation.,high,madurai_kandam.pdf,42,44
+ENT_ANKLET,EVT_MAT_010,SUBJECT_OF,REL_EVT_MAT_010_SUBJECT_OF_ENT_ANKLET,ENTITY,EVENT,MAT_010,EVT_MAT_010,High-confidence event/entity association grounded in the passage annotation.,high,madurai_kandam.pdf,42,44
+ENT_PANDYAN_KING,EVT_MAT_010,PARTICIPATES_IN,REL_EVT_MAT_010_PARTICIPATES_IN_ENT_PANDYAN_KING,ENTITY,EVENT,MAT_010,EVT_MAT_010,High-confidence event/entity association grounded in the passage annotation.,high,madurai_kandam.pdf,42,44
+ENT_QUEEN_CONSORT,EVT_MAT_010,SUBJECT_OF,REL_EVT_MAT_010_SUBJECT_OF_ENT_QUEEN_CONSORT,ENTITY,EVENT,MAT_010,EVT_MAT_010,High-confidence event/entity association grounded in the passage annotation.,high,madurai_kandam.pdf,42,44
+ENT_MADURAI,EVT_MAT_011,TARGET_OF,REL_EVT_MAT_011_TARGET_OF_ENT_MADURAI,ENTITY,EVENT,MAT_011,EVT_MAT_011,High-confidence event/entity association grounded in the passage annotation.,high,madurai_kandam.pdf,45,45
+ENT_KANNAKI,EVT_MAT_013,SUBJECT_OF,REL_EVT_MAT_013_SUBJECT_OF_ENT_KANNAKI,ENTITY,EVENT,MAT_013,EVT_MAT_013,High-confidence event/entity association grounded in the passage annotation.,high,madurai_kandam.pdf,50,54
+ENT_KOVALAN,EVT_MAT_013,SUBJECT_OF,REL_EVT_MAT_013_SUBJECT_OF_ENT_KOVALAN,ENTITY,EVENT,MAT_013,EVT_MAT_013,High-confidence event/entity association grounded in the passage annotation.,high,madurai_kandam.pdf,50,54
+ENT_MADURAI,EVT_MAT_013,SUBJECT_OF,REL_EVT_MAT_013_SUBJECT_OF_ENT_MADURAI,ENTITY,EVENT,MAT_013,EVT_MAT_013,High-confidence event/entity association grounded in the passage annotation.,high,madurai_kandam.pdf,50,54
+ENT_MADURAI,EVT_VAN_002,SUBJECT_OF,REL_EVT_VAN_002_SUBJECT_OF_ENT_MADURAI,ENTITY,EVENT,VAN_002,EVT_VAN_002,High-confidence event/entity association grounded in the passage annotation.,high,vanchi_kandam.pdf,7,10
+ENT_KANNAKI,EVT_VAN_004,SUBJECT_OF,REL_EVT_VAN_004_SUBJECT_OF_ENT_KANNAKI,ENTITY,EVENT,VAN_004,EVT_VAN_004,High-confidence event/entity association grounded in the passage annotation.,high,vanchi_kandam.pdf,17,21
+ENT_VA_CI,EVT_VAN_004,LOCATION_OF,REL_EVT_VAN_004_LOCATION_OF_ENT_VA_CI,ENTITY,EVENT,VAN_004,EVT_VAN_004,High-confidence event/entity association grounded in the passage annotation.,high,vanchi_kandam.pdf,17,21
+ENT_KANNAKI,EVT_VAN_006,SUBJECT_OF,REL_EVT_VAN_006_SUBJECT_OF_ENT_KANNAKI,ENTITY,EVENT,VAN_006,EVT_VAN_006,High-confidence event/entity association grounded in the passage annotation.,high,vanchi_kandam.pdf,27,32
+ENT_KOVALAN,EVT_VAN_006,SUBJECT_OF,REL_EVT_VAN_006_SUBJECT_OF_ENT_KOVALAN,ENTITY,EVENT,VAN_006,EVT_VAN_006,High-confidence event/entity association grounded in the passage annotation.,high,vanchi_kandam.pdf,27,32
+ENT_CE_KU_UVAN,EVT_VAN_006,SUBJECT_OF,REL_EVT_VAN_006_SUBJECT_OF_ENT_CE_KU_UVAN,ENTITY,EVENT,VAN_006,EVT_VAN_006,High-confidence event/entity association grounded in the passage annotation.,high,vanchi_kandam.pdf,27,32

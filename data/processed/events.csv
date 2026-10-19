@@ -1,0 +1,31 @@
+﻿event_id,passage_id,kandam,section_number,section_name,event_type,event_name_tamil,event_name_english,participants,location,temporal_info,event_description,source_file,source_page_start,source_page_end,confidence
+EVT_PUK_001,PUK_001,Pukār Kāṇṭam,1,மங்கல வாழ்த்துப் பாடல்,RITUAL,மங்கல வாழ்த்து,Auspicious invocation and blessing,,,,The text opens with an auspicious invocation and blessing.,pugar_kandam.pdf,5,6,high
+EVT_PUK_002,PUK_002,Pukār Kāṇṭam,2,மனையறம்படுத்த காதை,RELATIONSHIP,மனையறம்படுத்தல்,Household / married-life establishment,,,,The passage presents the establishment and conduct of household life.,pugar_kandam.pdf,7,9,high
+EVT_PUK_003,PUK_003,Pukār Kāṇṭam,3,அரங்கேற்று காதை,PERFORMANCE,அரங்கேற்றம்,Madhavi's stage debut,,,,The passage describes the formal stage performance and debut of Madhavi.,pugar_kandam.pdf,10,14,high
+EVT_PUK_004,PUK_004,Pukār Kāṇṭam,4,அந்திமாலைச் சிறப்புசெய் காதை,NARRATIVE,அந்திமாலைச் சிறப்புசெய்தல்,Evening-time scene,,,,The passage develops the evening setting and associated narrative events.,pugar_kandam.pdf,15,16,high
+EVT_PUK_005,PUK_005,Pukār Kāṇṭam,5,இந்திர விழவு ஊர் எடுத்த காதை,FESTIVAL,இந்திர விழவு,Indra festival,,,,The city celebrates and conducts the Indra festival.,pugar_kandam.pdf,17,22,high
+EVT_PUK_006,PUK_006,Pukār Kāṇṭam,6,கடலாடு காதை,ACTIVITY,கடலாடு,Seaside / sea-bathing episode,,,,The passage describes the seaside activity associated with Kovalan and Madhavi.,pugar_kandam.pdf,23,27,high
+EVT_PUK_007,PUK_007,Pukār Kāṇṭam,7,கானல் வரி,CONFLICT,கானல் வரி,Kovalan–Madhavi conflict and separation,,,,The passage develops the conflict between Kovalan and Madhavi and their separation.,pugar_kandam.pdf,28,35,high
+EVT_PUK_008,PUK_008,Pukār Kāṇṭam,8,வேனில் காதை,SETTING,வேனில்,Summer-season episode,,,,The passage presents the summer setting and its narrative context.,pugar_kandam.pdf,36,39,high
+EVT_PUK_009,PUK_009,Pukār Kāṇṭam,9,கனாத்திறம் உரைத்த காதை,VISION,கனாத்திறம் உரைத்தல்,Dream / vision narration,,,,A dream or vision is narrated and interpreted within the story.,pugar_kandam.pdf,40,41,high
+EVT_PUK_010,PUK_010,Pukār Kāṇṭam,10,நாடுகாண் காதை,JOURNEY,நாடுகாண்,Departure from Puhar and journey toward the interior,,,,Kovalan and Kannaki leave their earlier setting and proceed on a journey.,pugar_kandam.pdf,42,48,high
+EVT_MAT_001,MAT_001,Maturai Kāṇṭam,11,காடுகாண் காதை,JOURNEY,காடுகாண்,Forest journey,,,,The journey proceeds through the forest region.,madurai_kandam.pdf,3,8,high
+EVT_MAT_002,MAT_002,Maturai Kāṇṭam,12,வேட்டுவ வரி,RITUAL,வேட்டுவ வரி,Hunter ritual / worship,,,,The passage presents the ritual and worship practices of the hunter community.,madurai_kandam.pdf,9,13,high
+EVT_MAT_003,MAT_003,Maturai Kāṇṭam,13,புறஞ்சேரியிறுத்த காதை,JOURNEY,புறஞ்சேரியிறுத்தல்,Stay outside Madurai,,,,The travellers stay in the settlement outside the city.,madurai_kandam.pdf,14,18,high
+EVT_MAT_004,MAT_004,Maturai Kāṇṭam,14,ஊர்காண் காதை,JOURNEY,ஊர்காண்,Arrival / viewing of Madurai,,,,The travellers approach and observe the city of Madurai.,madurai_kandam.pdf,19,23,high
+EVT_MAT_005,MAT_005,Maturai Kāṇṭam,15,அடைக்கலக் காதை,SHELTER,அடைக்கலம்,Kovalan receives shelter,,,,The passage presents the granting of shelter and protection to Kovalan and Kannaki.,madurai_kandam.pdf,24,28,high
+EVT_MAT_006,MAT_006,Maturai Kāṇṭam,16,கொலைக்களக் காதை,CRIME,கொலைக்களம்,Kovalan's execution,,,,Kovalan is accused in the anklet matter and is killed by royal order.,madurai_kandam.pdf,29,33,high
+EVT_MAT_007,MAT_007,Maturai Kāṇṭam,17,ஆய்ச்சியர் குரவை,RITUAL,ஆய்ச்சியர் குரவை,Cowherd women's ritual dance,,,,The cowherd women perform the Kuravai dance and associated ritual activity.,madurai_kandam.pdf,34,38,high
+EVT_MAT_008,MAT_008,Maturai Kāṇṭam,18,துன்ப மாலை,GRIEF,துன்ப மாலை,Kannaki's lament,,,,Kannaki expresses grief following Kovalan's death.,madurai_kandam.pdf,39,39,high
+EVT_MAT_009,MAT_009,Maturai Kāṇṭam,19,ஊர்சூழ் வரி,DESTRUCTION,ஊர்சூழ் வரி,Madurai is engulfed in destruction,,,,The narrative describes the destruction that overtakes Madurai.,madurai_kandam.pdf,40,41,high
+EVT_MAT_010,MAT_010,Maturai Kāṇṭam,20,வழக்குரை காதை,LEGAL_ARGUMENT,வழக்குரை,Kannaki presents the anklet evidence,,,,Kannaki presents her case and the distinguishing evidence concerning the anklets.,madurai_kandam.pdf,42,44,high
+EVT_MAT_011,MAT_011,Maturai Kāṇṭam,21,வஞ்சின மாலை,VOW,வஞ்சின மாலை,Kannaki's vow,,,,Kannaki makes a forceful vow in response to the injustice.,madurai_kandam.pdf,45,45,high
+EVT_MAT_012,MAT_012,Maturai Kāṇṭam,22,அழற்படு காதை,DESTRUCTION,அழற்படு,Burning of Madurai,,,,Madurai is consumed by fire as a consequence of the conflict and injustice.,madurai_kandam.pdf,46,49,high
+EVT_MAT_013,MAT_013,Maturai Kāṇṭam,23,கட்டுரை காதை,EPILOGUE,கட்டுரை,Narrative explanation and aftermath,,,,The passage explains the aftermath and broader significance of the preceding events.,madurai_kandam.pdf,50,54,high
+EVT_VAN_001,VAN_001,Vañci Kāṇṭam,24,குன்றக் குரவை,RITUAL,குன்றக் குரவை,Hill women's worship / Kuravai,,,,The hill women perform the Kuravai and worship associated with Kannaki.,vanchi_kandam.pdf,3,6,high
+EVT_VAN_002,VAN_002,Vañci Kāṇṭam,25,காட்சிக் காதை,ROYAL_DECISION,காட்சி,Chera king receives the account of Kannaki,,,,The Chera royal narrative receives and considers the account concerning Kannaki.,vanchi_kandam.pdf,7,10,high
+EVT_VAN_003,VAN_003,Vañci Kāṇṭam,26,கால்கோட் காதை,ROYAL_ACTION,கால்கோட்,Obtaining the sacred stone,,,,The Chera king undertakes the action of obtaining the stone associated with the Pattini image.,vanchi_kandam.pdf,11,16,high
+EVT_VAN_004,VAN_004,Vañci Kāṇṭam,27,நீர்ப்படைக் காதை,RITUAL,நீர்ப்படை,Water rite for the sacred stone,,,,A water-related consecration rite is performed for the sacred stone.,vanchi_kandam.pdf,17,21,high
+EVT_VAN_005,VAN_005,Vañci Kāṇṭam,28,நடுகற் காதை,MEMORIAL,நடுகல்,Installation of the memorial stone,,,,The sacred stone is established as a memorial object.,vanchi_kandam.pdf,22,26,high
+EVT_VAN_006,VAN_006,Vañci Kāṇṭam,29,வாழ்த்துக் காதை,PRAISE,வாழ்த்து,Praise and celebration,,,,The passage praises and celebrates the sacred figure and the associated achievement.,vanchi_kandam.pdf,27,32,high
+EVT_VAN_007,VAN_007,Vañci Kāṇṭam,30,வரந்தரு காதை,BLESSING,வரந்தரு,Granting of a boon,,,,The narrative presents the granting of a boon and its consequences.,vanchi_kandam.pdf,33,37,high

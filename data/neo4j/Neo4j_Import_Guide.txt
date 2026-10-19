@@ -1,0 +1,117 @@
+SILAPPATIKARAM NEO4J IMPORT GUIDE
+================================
+
+Files:
+1. nodes.csv
+2. neo4j_relationships.csv
+
+Node labels:
+- PASSAGE
+- ENTITY
+- EVENT
+
+Relationship types:
+- MENTIONED_IN
+- OCCURS_IN
+- SUBJECT_OF
+- PARTICIPATES_IN
+- LOCATION_OF
+- DESTINATION_OF
+- MENTIONED_IN_EVENT
+- PRESENTS_EVIDENCE
+- TARGET_OF
+
+Recommended Neo4j import approach
+---------------------------------
+
+Option A: Neo4j Browser / LOAD CSV
+
+1. Put nodes.csv and neo4j_relationships.csv into Neo4j's import directory.
+
+2. Create nodes:
+
+LOAD CSV WITH HEADERS FROM 'file:///nodes.csv' AS row
+MERGE (n:Node {node_id: row.node_id})
+SET n.node_type = row.node_type,
+    n.name_tamil = row.name_tamil,
+    n.name_english = row.name_english,
+    n.entity_type = row.entity_type,
+    n.kandam = row.kandam,
+    n.section_number = row.section_number,
+    n.section_name = row.section_name,
+    n.event_type = row.event_type,
+    n.event_name_tamil = row.event_name_tamil,
+    n.event_name_english = row.event_name_english,
+    n.description = row.description,
+    n.source_file = row.source_file,
+    n.source_page_start = row.source_page_start,
+    n.source_page_end = row.source_page_end;
+
+3. Create relationships:
+
+LOAD CSV WITH HEADERS FROM 'file:///neo4j_relationships.csv' AS row
+MATCH (a:Node {node_id: row.`:START_ID`})
+MATCH (b:Node {node_id: row.`:END_ID`})
+CALL apoc.create.relationship(
+    a,
+    row.`:TYPE`,
+    {
+        relationship_id: row.relationship_id,
+        source_type: row.source_type,
+        target_type: row.target_type,
+        passage_id: row.passage_id,
+        event_id: row.event_id,
+        evidence: row.evidence,
+        confidence: row.confidence,
+        source_file: row.source_file,
+        source_page_start: row.source_page_start,
+        source_page_end: row.source_page_end
+    },
+    b
+) YIELD rel
+RETURN count(rel);
+
+NOTE:
+The second query uses APOC. If APOC is not available, create each relationship
+type separately using Cypher, for example:
+
+LOAD CSV WITH HEADERS FROM 'file:///neo4j_relationships.csv' AS row
+WITH row WHERE row.`:TYPE` = 'MENTIONED_IN'
+MATCH (a:Node {node_id: row.`:START_ID`})
+MATCH (b:Node {node_id: row.`:END_ID`})
+MERGE (a)-[r:MENTIONED_IN]->(b)
+SET r.relationship_id = row.relationship_id,
+    r.confidence = row.confidence,
+    r.evidence = row.evidence,
+    r.passage_id = row.passage_id;
+
+Recommended indexes/constraints
+--------------------------------
+
+CREATE CONSTRAINT node_id_unique IF NOT EXISTS
+FOR (n:Node) REQUIRE n.node_id IS UNIQUE;
+
+After import, test:
+
+MATCH (n:Node)
+RETURN n.node_type, count(n)
+ORDER BY n.node_type;
+
+MATCH (a:Node)-[r]->(b:Node)
+RETURN a.node_id, type(r), b.node_id
+LIMIT 50;
+
+Example:
+
+MATCH (k:Node {node_id:'ENT_KANNAKI'})-[r]->(e:Node {node_id:'EVT_MAT_010'})
+RETURN k, r, e;
+
+This should show Kannaki connected to the anklet-evidence/legal-argument event.
+
+IMPORTANT DATA NOTE
+-------------------
+The relationships dataset is a conservative seed graph. It contains explicit
+passage membership and selected high-confidence event/entity links. It should
+not be treated as a complete semantic relation annotation. Later, additional
+relations can be added after passage-level Mīmāṃsā interpretation and evidence
+validation.

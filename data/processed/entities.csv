@@ -1,0 +1,292 @@
+﻿entity_id,entity_name_tamil,entity_name_english,entity_type,passage_id,kandam,section_number,section_name,mention_count,source_file,source_page_start,source_page_end
+ENT_DEITY,தெய்வம்,Deity,CONCEPT,MAT_001,Maturai Kāṇṭam,11,காடுகாண் காதை,2,madurai_kandam.pdf,3,8
+ENT_SPEAR,வேல்,Spear,OBJECT,MAT_001,Maturai Kāṇṭam,11,காடுகாண் காதை,1,madurai_kandam.pdf,3,8
+ENT_KAVUNTI,கவுந்தி,Kavunti,PERSON,MAT_001,Maturai Kāṇṭam,11,காடுகாண் காதை,1,madurai_kandam.pdf,3,8
+ENT_KOVALAN,கோவலன்,Kovalan,PERSON,MAT_001,Maturai Kāṇṭam,11,காடுகாண் காதை,5,madurai_kandam.pdf,3,8
+ENT_MADHAVI,மாதவி,Madhavi,PERSON,MAT_001,Maturai Kāṇṭam,11,காடுகாண் காதை,1,madurai_kandam.pdf,3,8
+ENT_FOREST,காடு,Forest,PLACE,MAT_001,Maturai Kāṇṭam,11,காடுகாண் காதை,3,madurai_kandam.pdf,3,8
+ENT_K_VERI,காவிரி,Kāveri,PLACE,MAT_001,Maturai Kāṇṭam,11,காடுகாண் காதை,1,madurai_kandam.pdf,3,8
+ENT_MADURAI,மதுரை,Madurai,PLACE,MAT_001,Maturai Kāṇṭam,11,காடுகாண் காதை,4,madurai_kandam.pdf,3,8
+ENT_ACTION_KARMA,வினை,Action/Karma,CONCEPT,MAT_002,Maturai Kāṇṭam,12,வேட்டுவ வரி,1,madurai_kandam.pdf,9,13
+ENT_BARDS,பாணர்,Bards,GROUP,MAT_002,Maturai Kāṇṭam,12,வேட்டுவ வரி,1,madurai_kandam.pdf,9,13
+ENT_ANKLET,சிலம்பு,Anklet,OBJECT,MAT_002,Maturai Kāṇṭam,12,வேட்டுவ வரி,2,madurai_kandam.pdf,9,13
+ENT_GOLD,பொன்,Gold,OBJECT,MAT_002,Maturai Kāṇṭam,12,வேட்டுவ வரி,2,madurai_kandam.pdf,9,13
+ENT_Y,யாழ்,Yāḻ,OBJECT,MAT_002,Maturai Kāṇṭam,12,வேட்டுவ வரி,2,madurai_kandam.pdf,9,13
+ENT_SWORD,வாள்,Sword,OBJECT,MAT_002,Maturai Kāṇṭam,12,வேட்டுவ வரி,2,madurai_kandam.pdf,9,13
+ENT_VIRTUE_DHARMA,அறம்,Virtue/Dharma,CONCEPT,MAT_003,Maturai Kāṇṭam,13,புறஞ்சேரியிறுத்த காதை,1,madurai_kandam.pdf,14,18
+ENT_SWORD,வாள்,Sword,OBJECT,MAT_003,Maturai Kāṇṭam,13,புறஞ்சேரியிறுத்த காதை,1,madurai_kandam.pdf,14,18
+ENT_KOVALAN,கோவலன்,Kovalan,PERSON,MAT_003,Maturai Kāṇṭam,13,புறஞ்சேரியிறுத்த காதை,2,madurai_kandam.pdf,14,18
+ENT_MADHAVI,மாதவி,Madhavi,PERSON,MAT_003,Maturai Kāṇṭam,13,புறஞ்சேரியிறுத்த காதை,6,madurai_kandam.pdf,14,18
+ENT_PANDYAN_KING,பாண்டியன்,Pandyan King,PERSON_ROLE,MAT_003,Maturai Kāṇṭam,13,புறஞ்சேரியிறுத்த காதை,1,madurai_kandam.pdf,14,18
+ENT_POTHIYIL,பொதியில்,Pothiyil,PLACE,MAT_003,Maturai Kāṇṭam,13,புறஞ்சேரியிறுத்த காதை,1,madurai_kandam.pdf,14,18
+ENT_MADURAI,மதுரை,Madurai,PLACE,MAT_003,Maturai Kāṇṭam,13,புறஞ்சேரியிறுத்த காதை,3,madurai_kandam.pdf,14,18
+ENT_ACTION_KARMA,வினை,Action/Karma,CONCEPT,MAT_004,Maturai Kāṇṭam,14,ஊர்காண் காதை,4,madurai_kandam.pdf,19,23
+ENT_FLUTE,குழல்,Flute,OBJECT,MAT_004,Maturai Kāṇṭam,14,ஊர்காண் காதை,1,madurai_kandam.pdf,19,23
+ENT_GOLD,பொன்,Gold,OBJECT,MAT_004,Maturai Kāṇṭam,14,ஊர்காண் காதை,1,madurai_kandam.pdf,19,23
+ENT_SWORD,வாள்,Sword,OBJECT,MAT_004,Maturai Kāṇṭam,14,ஊர்காண் காதை,1,madurai_kandam.pdf,19,23
+ENT_KAVUNTI,கவுந்தி,Kavunti,PERSON,MAT_004,Maturai Kāṇṭam,14,ஊர்காண் காதை,1,madurai_kandam.pdf,19,23
+ENT_KOVALAN,கோவலன்,Kovalan,PERSON,MAT_004,Maturai Kāṇṭam,14,ஊர்காண் காதை,2,madurai_kandam.pdf,19,23
+ENT_MADHAVI,மாதவி,Madhavi,PERSON,MAT_004,Maturai Kāṇṭam,14,ஊர்காண் காதை,1,madurai_kandam.pdf,19,23
+ENT_FOREST,காடு,Forest,PLACE,MAT_004,Maturai Kāṇṭam,14,ஊர்காண் காதை,1,madurai_kandam.pdf,19,23
+ENT_POTHIYIL,பொதியில்,Pothiyil,PLACE,MAT_004,Maturai Kāṇṭam,14,ஊர்காண் காதை,1,madurai_kandam.pdf,19,23
+ENT_VIRTUE_DHARMA,அறம்,Virtue/Dharma,CONCEPT,MAT_005,Maturai Kāṇṭam,15,அடைக்கலக் காதை,1,madurai_kandam.pdf,24,28
+ENT_CHASTITY,கற்பு,Chastity,CONCEPT,MAT_005,Maturai Kāṇṭam,15,அடைக்கலக் காதை,1,madurai_kandam.pdf,24,28
+ENT_DEITY,தெய்வம்,Deity,CONCEPT,MAT_005,Maturai Kāṇṭam,15,அடைக்கலக் காதை,1,madurai_kandam.pdf,24,28
+ENT_ACTION_KARMA,வினை,Action/Karma,CONCEPT,MAT_005,Maturai Kāṇṭam,15,அடைக்கலக் காதை,1,madurai_kandam.pdf,24,28
+ENT_COWHERD_WOMEN,ஆய்ச்சியர்,Cowherd women,GROUP,MAT_005,Maturai Kāṇṭam,15,அடைக்கலக் காதை,1,madurai_kandam.pdf,24,28
+ENT_GOLD,பொன்,Gold,OBJECT,MAT_005,Maturai Kāṇṭam,15,அடைக்கலக் காதை,2,madurai_kandam.pdf,24,28
+ENT_KAVUNTI,கவுந்தி,Kavunti,PERSON,MAT_005,Maturai Kāṇṭam,15,அடைக்கலக் காதை,2,madurai_kandam.pdf,24,28
+ENT_KOVALAN,கோவலன்,Kovalan,PERSON,MAT_005,Maturai Kāṇṭam,15,அடைக்கலக் காதை,4,madurai_kandam.pdf,24,28
+ENT_M_TARI,மாதரி,Mātari,PERSON,MAT_005,Maturai Kāṇṭam,15,அடைக்கலக் காதை,3,madurai_kandam.pdf,24,28
+ENT_MADHAVI,மாதவி,Madhavi,PERSON,MAT_005,Maturai Kāṇṭam,15,அடைக்கலக் காதை,4,madurai_kandam.pdf,24,28
+ENT_K_VERI,காவிரி,Kāveri,PLACE,MAT_005,Maturai Kāṇṭam,15,அடைக்கலக் காதை,1,madurai_kandam.pdf,24,28
+ENT_MADURAI,மதுரை,Madurai,PLACE,MAT_005,Maturai Kāṇṭam,15,அடைக்கலக் காதை,3,madurai_kandam.pdf,24,28
+ENT_FATE_KARMA,ஊழ்,Fate/Karma,CONCEPT,MAT_006,Maturai Kāṇṭam,16,கொலைக்களக் காதை,1,madurai_kandam.pdf,29,33
+ENT_CHASTITY,கற்பு,Chastity,CONCEPT,MAT_006,Maturai Kāṇṭam,16,கொலைக்களக் காதை,1,madurai_kandam.pdf,29,33
+ENT_DEITY,தெய்வம்,Deity,CONCEPT,MAT_006,Maturai Kāṇṭam,16,கொலைக்களக் காதை,1,madurai_kandam.pdf,29,33
+ENT_ACTION_KARMA,வினை,Action/Karma,CONCEPT,MAT_006,Maturai Kāṇṭam,16,கொலைக்களக் காதை,14,madurai_kandam.pdf,29,33
+ENT_COWHERD_WOMEN,ஆய்ச்சியர்,Cowherd women,GROUP,MAT_006,Maturai Kāṇṭam,16,கொலைக்களக் காதை,1,madurai_kandam.pdf,29,33
+ENT_ANKLET,சிலம்பு,Anklet,OBJECT,MAT_006,Maturai Kāṇṭam,16,கொலைக்களக் காதை,5,madurai_kandam.pdf,29,33
+ENT_GOLD,பொன்,Gold,OBJECT,MAT_006,Maturai Kāṇṭam,16,கொலைக்களக் காதை,3,madurai_kandam.pdf,29,33
+ENT_SWORD,வாள்,Sword,OBJECT,MAT_006,Maturai Kāṇṭam,16,கொலைக்களக் காதை,5,madurai_kandam.pdf,29,33
+ENT_KANNAKI,கண்ணகி,Kannaki,PERSON,MAT_006,Maturai Kāṇṭam,16,கொலைக்களக் காதை,1,madurai_kandam.pdf,29,33
+ENT_KOVALAN,கோவலன்,Kovalan,PERSON,MAT_006,Maturai Kāṇṭam,16,கொலைக்களக் காதை,3,madurai_kandam.pdf,29,33
+ENT_QUEEN_CONSORT,தேவி,Queen/Consort,PERSON_ROLE,MAT_006,Maturai Kāṇṭam,16,கொலைக்களக் காதை,3,madurai_kandam.pdf,29,33
+ENT_COWHERD_WOMEN,ஆய்ச்சியர்,Cowherd women,GROUP,MAT_007,Maturai Kāṇṭam,17,ஆய்ச்சியர் குரவை,1,madurai_kandam.pdf,34,38
+ENT_FLUTE,குழல்,Flute,OBJECT,MAT_007,Maturai Kāṇṭam,17,ஆய்ச்சியர் குரவை,5,madurai_kandam.pdf,34,38
+ENT_GOLD,பொன்,Gold,OBJECT,MAT_007,Maturai Kāṇṭam,17,ஆய்ச்சியர் குரவை,2,madurai_kandam.pdf,34,38
+ENT_SWORD,வாள்,Sword,OBJECT,MAT_007,Maturai Kāṇṭam,17,ஆய்ச்சியர் குரவை,2,madurai_kandam.pdf,34,38
+ENT_SPEAR,வேல்,Spear,OBJECT,MAT_007,Maturai Kāṇṭam,17,ஆய்ச்சியர் குரவை,1,madurai_kandam.pdf,34,38
+ENT_KANNAKI,கண்ணகி,Kannaki,PERSON,MAT_007,Maturai Kāṇṭam,17,ஆய்ச்சியர் குரவை,1,madurai_kandam.pdf,34,38
+ENT_PANDYAN_KING,பாண்டியன்,Pandyan King,PERSON_ROLE,MAT_007,Maturai Kāṇṭam,17,ஆய்ச்சியர் குரவை,1,madurai_kandam.pdf,34,38
+ENT_PUK_R,புகார்,Pukār,PLACE,MAT_007,Maturai Kāṇṭam,17,ஆய்ச்சியர் குரவை,2,madurai_kandam.pdf,34,38
+ENT_VA_CI,வஞ்சி,Vañci,PLACE,MAT_007,Maturai Kāṇṭam,17,ஆய்ச்சியர் குரவை,2,madurai_kandam.pdf,34,38
+ENT_SWORD,வாள்,Sword,OBJECT,MAT_008,Maturai Kāṇṭam,18,துன்ப மாலை,1,madurai_kandam.pdf,39,39
+ENT_DEITY,தெய்வம்,Deity,CONCEPT,MAT_009,Maturai Kāṇṭam,19,ஊர்சூழ் வரி,1,madurai_kandam.pdf,40,41
+ENT_ACTION_KARMA,வினை,Action/Karma,CONCEPT,MAT_009,Maturai Kāṇṭam,19,ஊர்சூழ் வரி,5,madurai_kandam.pdf,40,41
+ENT_ANKLET,சிலம்பு,Anklet,OBJECT,MAT_009,Maturai Kāṇṭam,19,ஊர்சூழ் வரி,1,madurai_kandam.pdf,40,41
+ENT_GOLD,பொன்,Gold,OBJECT,MAT_009,Maturai Kāṇṭam,19,ஊர்சூழ் வரி,4,madurai_kandam.pdf,40,41
+ENT_SWORD,வாள்,Sword,OBJECT,MAT_009,Maturai Kāṇṭam,19,ஊர்சூழ் வரி,4,madurai_kandam.pdf,40,41
+ENT_SPEAR,வேல்,Spear,OBJECT,MAT_009,Maturai Kāṇṭam,19,ஊர்சூழ் வரி,1,madurai_kandam.pdf,40,41
+ENT_PANDYAN_KING,பாண்டியன்,Pandyan King,PERSON_ROLE,MAT_009,Maturai Kāṇṭam,19,ஊர்சூழ் வரி,1,madurai_kandam.pdf,40,41
+ENT_MADURAI,மதுரை,Madurai,PLACE,MAT_009,Maturai Kāṇṭam,19,ஊர்சூழ் வரி,2,madurai_kandam.pdf,40,41
+ENT_FATE_KARMA,ஊழ்,Fate/Karma,CONCEPT,MAT_010,Maturai Kāṇṭam,20,வழக்குரை காதை,1,madurai_kandam.pdf,42,44
+ENT_ACTION_KARMA,வினை,Action/Karma,CONCEPT,MAT_010,Maturai Kāṇṭam,20,வழக்குரை காதை,3,madurai_kandam.pdf,42,44
+ENT_ANKLET,சிலம்பு,Anklet,OBJECT,MAT_010,Maturai Kāṇṭam,20,வழக்குரை காதை,5,madurai_kandam.pdf,42,44
+ENT_GOLD,பொன்,Gold,OBJECT,MAT_010,Maturai Kāṇṭam,20,வழக்குரை காதை,3,madurai_kandam.pdf,42,44
+ENT_PEARL,முத்து,Pearl,OBJECT,MAT_010,Maturai Kāṇṭam,20,வழக்குரை காதை,1,madurai_kandam.pdf,42,44
+ENT_KANNAKI,கண்ணகி,Kannaki,PERSON,MAT_010,Maturai Kāṇṭam,20,வழக்குரை காதை,2,madurai_kandam.pdf,42,44
+ENT_KOVALAN,கோவலன்,Kovalan,PERSON,MAT_010,Maturai Kāṇṭam,20,வழக்குரை காதை,1,madurai_kandam.pdf,42,44
+ENT_QUEEN_CONSORT,தேவி,Queen/Consort,PERSON_ROLE,MAT_010,Maturai Kāṇṭam,20,வழக்குரை காதை,3,madurai_kandam.pdf,42,44
+ENT_PANDYAN_KING,பாண்டியன்,Pandyan King,PERSON_ROLE,MAT_010,Maturai Kāṇṭam,20,வழக்குரை காதை,1,madurai_kandam.pdf,42,44
+ENT_CHASTITY,கற்பு,Chastity,CONCEPT,MAT_011,Maturai Kāṇṭam,21,வஞ்சின மாலை,1,madurai_kandam.pdf,45,45
+ENT_ACTION_KARMA,வினை,Action/Karma,CONCEPT,MAT_011,Maturai Kāṇṭam,21,வஞ்சின மாலை,1,madurai_kandam.pdf,45,45
+ENT_FLUTE,குழல்,Flute,OBJECT,MAT_011,Maturai Kāṇṭam,21,வஞ்சின மாலை,1,madurai_kandam.pdf,45,45
+ENT_GOLD,பொன்,Gold,OBJECT,MAT_011,Maturai Kāṇṭam,21,வஞ்சின மாலை,2,madurai_kandam.pdf,45,45
+ENT_SWORD,வாள்,Sword,OBJECT,MAT_011,Maturai Kāṇṭam,21,வஞ்சின மாலை,1,madurai_kandam.pdf,45,45
+ENT_QUEEN_CONSORT,தேவி,Queen/Consort,PERSON_ROLE,MAT_011,Maturai Kāṇṭam,21,வஞ்சின மாலை,1,madurai_kandam.pdf,45,45
+ENT_MADURAI,மதுரை,Madurai,PLACE,MAT_011,Maturai Kāṇṭam,21,வஞ்சின மாலை,2,madurai_kandam.pdf,45,45
+ENT_VA_CI,வஞ்சி,Vañci,PLACE,MAT_011,Maturai Kāṇṭam,21,வஞ்சின மாலை,2,madurai_kandam.pdf,45,45
+ENT_DEITY,தெய்வம்,Deity,CONCEPT,MAT_012,Maturai Kāṇṭam,22,அழற்படு காதை,1,madurai_kandam.pdf,46,49
+ENT_ACTION_KARMA,வினை,Action/Karma,CONCEPT,MAT_012,Maturai Kāṇṭam,22,அழற்படு காதை,1,madurai_kandam.pdf,46,49
+ENT_FLUTE,குழல்,Flute,OBJECT,MAT_012,Maturai Kāṇṭam,22,அழற்படு காதை,1,madurai_kandam.pdf,46,49
+ENT_GOLD,பொன்,Gold,OBJECT,MAT_012,Maturai Kāṇṭam,22,அழற்படு காதை,3,madurai_kandam.pdf,46,49
+ENT_Y,யாழ்,Yāḻ,OBJECT,MAT_012,Maturai Kāṇṭam,22,அழற்படு காதை,1,madurai_kandam.pdf,46,49
+ENT_SWORD,வாள்,Sword,OBJECT,MAT_012,Maturai Kāṇṭam,22,அழற்படு காதை,1,madurai_kandam.pdf,46,49
+ENT_SPEAR,வேல்,Spear,OBJECT,MAT_012,Maturai Kāṇṭam,22,அழற்படு காதை,2,madurai_kandam.pdf,46,49
+ENT_QUEEN_CONSORT,தேவி,Queen/Consort,PERSON_ROLE,MAT_012,Maturai Kāṇṭam,22,அழற்படு காதை,1,madurai_kandam.pdf,46,49
+ENT_FATE_KARMA,ஊழ்,Fate/Karma,CONCEPT,MAT_013,Maturai Kāṇṭam,23,கட்டுரை காதை,1,madurai_kandam.pdf,50,54
+ENT_DEITY,தெய்வம்,Deity,CONCEPT,MAT_013,Maturai Kāṇṭam,23,கட்டுரை காதை,1,madurai_kandam.pdf,50,54
+ENT_ACTION_KARMA,வினை,Action/Karma,CONCEPT,MAT_013,Maturai Kāṇṭam,23,கட்டுரை காதை,4,madurai_kandam.pdf,50,54
+ENT_ANKLET,சிலம்பு,Anklet,OBJECT,MAT_013,Maturai Kāṇṭam,23,கட்டுரை காதை,1,madurai_kandam.pdf,50,54
+ENT_GOLD,பொன்,Gold,OBJECT,MAT_013,Maturai Kāṇṭam,23,கட்டுரை காதை,2,madurai_kandam.pdf,50,54
+ENT_WAR_DRUM,முரசு,War drum,OBJECT,MAT_013,Maturai Kāṇṭam,23,கட்டுரை காதை,1,madurai_kandam.pdf,50,54
+ENT_SWORD,வாள்,Sword,OBJECT,MAT_013,Maturai Kāṇṭam,23,கட்டுரை காதை,3,madurai_kandam.pdf,50,54
+ENT_SPEAR,வேல்,Spear,OBJECT,MAT_013,Maturai Kāṇṭam,23,கட்டுரை காதை,5,madurai_kandam.pdf,50,54
+ENT_KANNAKI,கண்ணகி,Kannaki,PERSON,MAT_013,Maturai Kāṇṭam,23,கட்டுரை காதை,2,madurai_kandam.pdf,50,54
+ENT_KOVALAN,கோவலன்,Kovalan,PERSON,MAT_013,Maturai Kāṇṭam,23,கட்டுரை காதை,2,madurai_kandam.pdf,50,54
+ENT_QUEEN_CONSORT,தேவி,Queen/Consort,PERSON_ROLE,MAT_013,Maturai Kāṇṭam,23,கட்டுரை காதை,1,madurai_kandam.pdf,50,54
+ENT_PANDYAN_KING,பாண்டியன்,Pandyan King,PERSON_ROLE,MAT_013,Maturai Kāṇṭam,23,கட்டுரை காதை,1,madurai_kandam.pdf,50,54
+ENT_BRAHMIN,பார்ப்பான்,Brahmin,PERSON_ROLE,MAT_013,Maturai Kāṇṭam,23,கட்டுரை காதை,1,madurai_kandam.pdf,50,54
+ENT_FOREST,காடு,Forest,PLACE,MAT_013,Maturai Kāṇṭam,23,கட்டுரை காதை,1,madurai_kandam.pdf,50,54
+ENT_MOUNTAIN,குன்றம்,Mountain,PLACE,MAT_013,Maturai Kāṇṭam,23,கட்டுரை காதை,1,madurai_kandam.pdf,50,54
+ENT_PUK_R,புகார்,Pukār,PLACE,MAT_013,Maturai Kāṇṭam,23,கட்டுரை காதை,1,madurai_kandam.pdf,50,54
+ENT_MADURAI,மதுரை,Madurai,PLACE,MAT_013,Maturai Kāṇṭam,23,கட்டுரை காதை,3,madurai_kandam.pdf,50,54
+ENT_GOLD,பொன்,Gold,OBJECT,PUK_001,Pukār Kāṇṭam,1,மங்கல வாழ்த்துப் பாடல்,1,pugar_kandam.pdf,5,6
+ENT_WAR_DRUM,முரசு,War drum,OBJECT,PUK_001,Pukār Kāṇṭam,1,மங்கல வாழ்த்துப் பாடல்,1,pugar_kandam.pdf,5,6
+ENT_SWORD,வாள்,Sword,OBJECT,PUK_001,Pukār Kāṇṭam,1,மங்கல வாழ்த்துப் பாடல்,1,pugar_kandam.pdf,5,6
+ENT_SPEAR,வேல்,Spear,OBJECT,PUK_001,Pukār Kāṇṭam,1,மங்கல வாழ்த்துப் பாடல்,1,pugar_kandam.pdf,5,6
+ENT_KANNAKI,கண்ணகி,Kannaki,PERSON,PUK_001,Pukār Kāṇṭam,1,மங்கல வாழ்த்துப் பாடல்,1,pugar_kandam.pdf,5,6
+ENT_KOVALAN,கோவலன்,Kovalan,PERSON,PUK_001,Pukār Kāṇṭam,1,மங்கல வாழ்த்துப் பாடல்,2,pugar_kandam.pdf,5,6
+ENT_M_N_YKAN,மாநாய்கன்,Mānāykan,PERSON,PUK_001,Pukār Kāṇṭam,1,மங்கல வாழ்த்துப் பாடல்,1,pugar_kandam.pdf,5,6
+ENT_BRAHMIN,பார்ப்பான்,Brahmin,PERSON_ROLE,PUK_001,Pukār Kāṇṭam,1,மங்கல வாழ்த்துப் பாடல்,1,pugar_kandam.pdf,5,6
+ENT_HIMALAYA,இமயம்,Himalaya,PLACE,PUK_001,Pukār Kāṇṭam,1,மங்கல வாழ்த்துப் பாடல்,1,pugar_kandam.pdf,5,6
+ENT_K_VERI,காவிரி,Kāveri,PLACE,PUK_001,Pukār Kāṇṭam,1,மங்கல வாழ்த்துப் பாடல்,1,pugar_kandam.pdf,5,6
+ENT_PUK_R,புகார்,Pukār,PLACE,PUK_001,Pukār Kāṇṭam,1,மங்கல வாழ்த்துப் பாடல்,3,pugar_kandam.pdf,5,6
+ENT_P_MPUK_R,பூம்புகார்,Pūmpukār,PLACE,PUK_001,Pukār Kāṇṭam,1,மங்கல வாழ்த்துப் பாடல்,2,pugar_kandam.pdf,5,6
+ENT_POTHIYIL,பொதியில்,Pothiyil,PLACE,PUK_001,Pukār Kāṇṭam,1,மங்கல வாழ்த்துப் பாடல்,1,pugar_kandam.pdf,5,6
+ENT_FLUTE,குழல்,Flute,OBJECT,PUK_002,Pukār Kāṇṭam,2,மனையறம்படுத்த காதை,1,pugar_kandam.pdf,7,9
+ENT_GOLD,பொன்,Gold,OBJECT,PUK_002,Pukār Kāṇṭam,2,மனையறம்படுத்த காதை,1,pugar_kandam.pdf,7,9
+ENT_PEARL,முத்து,Pearl,OBJECT,PUK_002,Pukār Kāṇṭam,2,மனையறம்படுத்த காதை,1,pugar_kandam.pdf,7,9
+ENT_SWORD,வாள்,Sword,OBJECT,PUK_002,Pukār Kāṇṭam,2,மனையறம்படுத்த காதை,1,pugar_kandam.pdf,7,9
+ENT_SPEAR,வேல்,Spear,OBJECT,PUK_002,Pukār Kāṇṭam,2,மனையறம்படுத்த காதை,1,pugar_kandam.pdf,7,9
+ENT_KANNAKI,கண்ணகி,Kannaki,PERSON,PUK_002,Pukār Kāṇṭam,2,மனையறம்படுத்த காதை,1,pugar_kandam.pdf,7,9
+ENT_KOVALAN,கோவலன்,Kovalan,PERSON,PUK_002,Pukār Kāṇṭam,2,மனையறம்படுத்த காதை,1,pugar_kandam.pdf,7,9
+ENT_MADHAVI,மாதவி,Madhavi,PERSON,PUK_002,Pukār Kāṇṭam,2,மனையறம்படுத்த காதை,1,pugar_kandam.pdf,7,9
+ENT_FLUTE,குழல்,Flute,OBJECT,PUK_003,Pukār Kāṇṭam,3,அரங்கேற்று காதை,3,pugar_kandam.pdf,10,14
+ENT_GOLD,பொன்,Gold,OBJECT,PUK_003,Pukār Kāṇṭam,3,அரங்கேற்று காதை,2,pugar_kandam.pdf,10,14
+ENT_WAR_DRUM,முரசு,War drum,OBJECT,PUK_003,Pukār Kāṇṭam,3,அரங்கேற்று காதை,1,pugar_kandam.pdf,10,14
+ENT_Y,யாழ்,Yāḻ,OBJECT,PUK_003,Pukār Kāṇṭam,3,அரங்கேற்று காதை,3,pugar_kandam.pdf,10,14
+ENT_KOVALAN,கோவலன்,Kovalan,PERSON,PUK_003,Pukār Kāṇṭam,3,அரங்கேற்று காதை,1,pugar_kandam.pdf,10,14
+ENT_MADHAVI,மாதவி,Madhavi,PERSON,PUK_003,Pukār Kāṇṭam,3,அரங்கேற்று காதை,4,pugar_kandam.pdf,10,14
+ENT_PUK_R,புகார்,Pukār,PLACE,PUK_003,Pukār Kāṇṭam,3,அரங்கேற்று காதை,1,pugar_kandam.pdf,10,14
+ENT_P_MPUK_R,பூம்புகார்,Pūmpukār,PLACE,PUK_003,Pukār Kāṇṭam,3,அரங்கேற்று காதை,1,pugar_kandam.pdf,10,14
+ENT_FLUTE,குழல்,Flute,OBJECT,PUK_004,Pukār Kāṇṭam,4,அந்திமாலைச் சிறப்புசெய் காதை,1,pugar_kandam.pdf,15,16
+ENT_ANKLET,சிலம்பு,Anklet,OBJECT,PUK_004,Pukār Kāṇṭam,4,அந்திமாலைச் சிறப்புசெய் காதை,1,pugar_kandam.pdf,15,16
+ENT_PEARL,முத்து,Pearl,OBJECT,PUK_004,Pukār Kāṇṭam,4,அந்திமாலைச் சிறப்புசெய் காதை,2,pugar_kandam.pdf,15,16
+ENT_SWORD,வாள்,Sword,OBJECT,PUK_004,Pukār Kāṇṭam,4,அந்திமாலைச் சிறப்புசெய் காதை,3,pugar_kandam.pdf,15,16
+ENT_KANNAKI,கண்ணகி,Kannaki,PERSON,PUK_004,Pukār Kāṇṭam,4,அந்திமாலைச் சிறப்புசெய் காதை,2,pugar_kandam.pdf,15,16
+ENT_KOVALAN,கோவலன்,Kovalan,PERSON,PUK_004,Pukār Kāṇṭam,4,அந்திமாலைச் சிறப்புசெய் காதை,1,pugar_kandam.pdf,15,16
+ENT_MADHAVI,மாதவி,Madhavi,PERSON,PUK_004,Pukār Kāṇṭam,4,அந்திமாலைச் சிறப்புசெய் காதை,2,pugar_kandam.pdf,15,16
+ENT_VIRTUE_DHARMA,அறம்,Virtue/Dharma,CONCEPT,PUK_005,Pukār Kāṇṭam,5,இந்திர விழவு ஊர் எடுத்த காதை,1,pugar_kandam.pdf,17,22
+ENT_ACTION_KARMA,வினை,Action/Karma,CONCEPT,PUK_005,Pukār Kāṇṭam,5,இந்திர விழவு ஊர் எடுத்த காதை,7,pugar_kandam.pdf,17,22
+ENT_BRAHMINS,மறையோர்,Brahmins,GROUP,PUK_005,Pukār Kāṇṭam,5,இந்திர விழவு ஊர் எடுத்த காதை,1,pugar_kandam.pdf,17,22
+ENT_GOLD,பொன்,Gold,OBJECT,PUK_005,Pukār Kāṇṭam,5,இந்திர விழவு ஊர் எடுத்த காதை,7,pugar_kandam.pdf,17,22
+ENT_PEARL,முத்து,Pearl,OBJECT,PUK_005,Pukār Kāṇṭam,5,இந்திர விழவு ஊர் எடுத்த காதை,2,pugar_kandam.pdf,17,22
+ENT_WAR_DRUM,முரசு,War drum,OBJECT,PUK_005,Pukār Kāṇṭam,5,இந்திர விழவு ஊர் எடுத்த காதை,1,pugar_kandam.pdf,17,22
+ENT_Y,யாழ்,Yāḻ,OBJECT,PUK_005,Pukār Kāṇṭam,5,இந்திர விழவு ஊர் எடுத்த காதை,2,pugar_kandam.pdf,17,22
+ENT_SWORD,வாள்,Sword,OBJECT,PUK_005,Pukār Kāṇṭam,5,இந்திர விழவு ஊர் எடுத்த காதை,2,pugar_kandam.pdf,17,22
+ENT_SPEAR,வேல்,Spear,OBJECT,PUK_005,Pukār Kāṇṭam,5,இந்திர விழவு ஊர் எடுத்த காதை,2,pugar_kandam.pdf,17,22
+ENT_KANNAKI,கண்ணகி,Kannaki,PERSON,PUK_005,Pukār Kāṇṭam,5,இந்திர விழவு ஊர் எடுத்த காதை,1,pugar_kandam.pdf,17,22
+ENT_KOVALAN,கோவலன்,Kovalan,PERSON,PUK_005,Pukār Kāṇṭam,5,இந்திர விழவு ஊர் எடுத்த காதை,1,pugar_kandam.pdf,17,22
+ENT_MADHAVI,மாதவி,Madhavi,PERSON,PUK_005,Pukār Kāṇṭam,5,இந்திர விழவு ஊர் எடுத்த காதை,2,pugar_kandam.pdf,17,22
+ENT_K_VERI,காவிரி,Kāveri,PLACE,PUK_005,Pukār Kāṇṭam,5,இந்திர விழவு ஊர் எடுத்த காதை,1,pugar_kandam.pdf,17,22
+ENT_FATE_KARMA,ஊழ்,Fate/Karma,CONCEPT,PUK_006,Pukār Kāṇṭam,6,கடலாடு காதை,1,pugar_kandam.pdf,23,27
+ENT_ACTION_KARMA,வினை,Action/Karma,CONCEPT,PUK_006,Pukār Kāṇṭam,6,கடலாடு காதை,3,pugar_kandam.pdf,23,27
+ENT_GOLD,பொன்,Gold,OBJECT,PUK_006,Pukār Kāṇṭam,6,கடலாடு காதை,1,pugar_kandam.pdf,23,27
+ENT_Y,யாழ்,Yāḻ,OBJECT,PUK_006,Pukār Kāṇṭam,6,கடலாடு காதை,1,pugar_kandam.pdf,23,27
+ENT_SPEAR,வேல்,Spear,OBJECT,PUK_006,Pukār Kāṇṭam,6,கடலாடு காதை,1,pugar_kandam.pdf,23,27
+ENT_KOVALAN,கோவலன்,Kovalan,PERSON,PUK_006,Pukār Kāṇṭam,6,கடலாடு காதை,1,pugar_kandam.pdf,23,27
+ENT_MADHAVI,மாதவி,Madhavi,PERSON,PUK_006,Pukār Kāṇṭam,6,கடலாடு காதை,4,pugar_kandam.pdf,23,27
+ENT_K_VERI,காவிரி,Kāveri,PLACE,PUK_006,Pukār Kāṇṭam,6,கடலாடு காதை,2,pugar_kandam.pdf,23,27
+ENT_PUK_R,புகார்,Pukār,PLACE,PUK_006,Pukār Kāṇṭam,6,கடலாடு காதை,1,pugar_kandam.pdf,23,27
+ENT_FATE_KARMA,ஊழ்,Fate/Karma,CONCEPT,PUK_007,Pukār Kāṇṭam,7,கானல் வரி,1,pugar_kandam.pdf,28,35
+ENT_CHASTITY,கற்பு,Chastity,CONCEPT,PUK_007,Pukār Kāṇṭam,7,கானல் வரி,2,pugar_kandam.pdf,28,35
+ENT_DEITY,தெய்வம்,Deity,CONCEPT,PUK_007,Pukār Kāṇṭam,7,கானல் வரி,3,pugar_kandam.pdf,28,35
+ENT_ACTION_KARMA,வினை,Action/Karma,CONCEPT,PUK_007,Pukār Kāṇṭam,7,கானல் வரி,1,pugar_kandam.pdf,28,35
+ENT_GOLD,பொன்,Gold,OBJECT,PUK_007,Pukār Kāṇṭam,7,கானல் வரி,1,pugar_kandam.pdf,28,35
+ENT_PEARL,முத்து,Pearl,OBJECT,PUK_007,Pukār Kāṇṭam,7,கானல் வரி,2,pugar_kandam.pdf,28,35
+ENT_Y,யாழ்,Yāḻ,OBJECT,PUK_007,Pukār Kāṇṭam,7,கானல் வரி,4,pugar_kandam.pdf,28,35
+ENT_SWORD,வாள்,Sword,OBJECT,PUK_007,Pukār Kāṇṭam,7,கானல் வரி,10,pugar_kandam.pdf,28,35
+ENT_SPEAR,வேல்,Spear,OBJECT,PUK_007,Pukār Kāṇṭam,7,கானல் வரி,4,pugar_kandam.pdf,28,35
+ENT_KOVALAN,கோவலன்,Kovalan,PERSON,PUK_007,Pukār Kāṇṭam,7,கானல் வரி,2,pugar_kandam.pdf,28,35
+ENT_MADHAVI,மாதவி,Madhavi,PERSON,PUK_007,Pukār Kāṇṭam,7,கானல் வரி,3,pugar_kandam.pdf,28,35
+ENT_FOREST,காடு,Forest,PLACE,PUK_007,Pukār Kāṇṭam,7,கானல் வரி,1,pugar_kandam.pdf,28,35
+ENT_K_VERI,காவிரி,Kāveri,PLACE,PUK_007,Pukār Kāṇṭam,7,கானல் வரி,1,pugar_kandam.pdf,28,35
+ENT_ANKLET,சிலம்பு,Anklet,OBJECT,PUK_008,Pukār Kāṇṭam,8,வேனில் காதை,1,pugar_kandam.pdf,36,39
+ENT_PEARL,முத்து,Pearl,OBJECT,PUK_008,Pukār Kāṇṭam,8,வேனில் காதை,1,pugar_kandam.pdf,36,39
+ENT_Y,யாழ்,Yāḻ,OBJECT,PUK_008,Pukār Kāṇṭam,8,வேனில் காதை,1,pugar_kandam.pdf,36,39
+ENT_SWORD,வாள்,Sword,OBJECT,PUK_008,Pukār Kāṇṭam,8,வேனில் காதை,1,pugar_kandam.pdf,36,39
+ENT_SPEAR,வேல்,Spear,OBJECT,PUK_008,Pukār Kāṇṭam,8,வேனில் காதை,3,pugar_kandam.pdf,36,39
+ENT_KOVALAN,கோவலன்,Kovalan,PERSON,PUK_008,Pukār Kāṇṭam,8,வேனில் காதை,1,pugar_kandam.pdf,36,39
+ENT_MADHAVI,மாதவி,Madhavi,PERSON,PUK_008,Pukār Kāṇṭam,8,வேனில் காதை,3,pugar_kandam.pdf,36,39
+ENT_POTHIYIL,பொதியில்,Pothiyil,PLACE,PUK_008,Pukār Kāṇṭam,8,வேனில் காதை,1,pugar_kandam.pdf,36,39
+ENT_MADURAI,மதுரை,Madurai,PLACE,PUK_008,Pukār Kāṇṭam,8,வேனில் காதை,1,pugar_kandam.pdf,36,39
+ENT_VA_CI,வஞ்சி,Vañci,PLACE,PUK_008,Pukār Kāṇṭam,8,வேனில் காதை,1,pugar_kandam.pdf,36,39
+ENT_ACTION_KARMA,வினை,Action/Karma,CONCEPT,PUK_009,Pukār Kāṇṭam,9,கனாத்திறம் உரைத்த காதை,2,pugar_kandam.pdf,40,41
+ENT_ANKLET,சிலம்பு,Anklet,OBJECT,PUK_009,Pukār Kāṇṭam,9,கனாத்திறம் உரைத்த காதை,2,pugar_kandam.pdf,40,41
+ENT_SPEAR,வேல்,Spear,OBJECT,PUK_009,Pukār Kāṇṭam,9,கனாத்திறம் உரைத்த காதை,1,pugar_kandam.pdf,40,41
+ENT_KANNAKI,கண்ணகி,Kannaki,PERSON,PUK_009,Pukār Kāṇṭam,9,கனாத்திறம் உரைத்த காதை,1,pugar_kandam.pdf,40,41
+ENT_KOVALAN,கோவலன்,Kovalan,PERSON,PUK_009,Pukār Kāṇṭam,9,கனாத்திறம் உரைத்த காதை,1,pugar_kandam.pdf,40,41
+ENT_MADHAVI,மாதவி,Madhavi,PERSON,PUK_009,Pukār Kāṇṭam,9,கனாத்திறம் உரைத்த காதை,1,pugar_kandam.pdf,40,41
+ENT_QUEEN_CONSORT,தேவி,Queen/Consort,PERSON_ROLE,PUK_009,Pukār Kāṇṭam,9,கனாத்திறம் உரைத்த காதை,1,pugar_kandam.pdf,40,41
+ENT_K_VERI,காவிரி,Kāveri,PLACE,PUK_009,Pukār Kāṇṭam,9,கனாத்திறம் உரைத்த காதை,1,pugar_kandam.pdf,40,41
+ENT_MOUNTAIN,குன்றம்,Mountain,PLACE,PUK_009,Pukār Kāṇṭam,9,கனாத்திறம் உரைத்த காதை,1,pugar_kandam.pdf,40,41
+ENT_MADURAI,மதுரை,Madurai,PLACE,PUK_009,Pukār Kāṇṭam,9,கனாத்திறம் உரைத்த காதை,1,pugar_kandam.pdf,40,41
+ENT_VIRTUE_DHARMA,அறம்,Virtue/Dharma,CONCEPT,PUK_010,Pukār Kāṇṭam,10,நாடுகாண் காதை,1,pugar_kandam.pdf,42,48
+ENT_FATE_KARMA,ஊழ்,Fate/Karma,CONCEPT,PUK_010,Pukār Kāṇṭam,10,நாடுகாண் காதை,2,pugar_kandam.pdf,42,48
+ENT_DEITY,தெய்வம்,Deity,CONCEPT,PUK_010,Pukār Kāṇṭam,10,நாடுகாண் காதை,1,pugar_kandam.pdf,42,48
+ENT_ACTION_KARMA,வினை,Action/Karma,CONCEPT,PUK_010,Pukār Kāṇṭam,10,நாடுகாண் காதை,4,pugar_kandam.pdf,42,48
+ENT_BRAHMINS,மறையோர்,Brahmins,GROUP,PUK_010,Pukār Kāṇṭam,10,நாடுகாண் காதை,2,pugar_kandam.pdf,42,48
+ENT_KANNAKI,கண்ணகி,Kannaki,PERSON,PUK_010,Pukār Kāṇṭam,10,நாடுகாண் காதை,1,pugar_kandam.pdf,42,48
+ENT_KAVUNTI,கவுந்தி,Kavunti,PERSON,PUK_010,Pukār Kāṇṭam,10,நாடுகாண் காதை,5,pugar_kandam.pdf,42,48
+ENT_KOVALAN,கோவலன்,Kovalan,PERSON,PUK_010,Pukār Kāṇṭam,10,நாடுகாண் காதை,1,pugar_kandam.pdf,42,48
+ENT_QUEEN_CONSORT,தேவி,Queen/Consort,PERSON_ROLE,PUK_010,Pukār Kāṇṭam,10,நாடுகாண் காதை,2,pugar_kandam.pdf,42,48
+ENT_FOREST,காடு,Forest,PLACE,PUK_010,Pukār Kāṇṭam,10,நாடுகாண் காதை,1,pugar_kandam.pdf,42,48
+ENT_K_VERI,காவிரி,Kāveri,PLACE,PUK_010,Pukār Kāṇṭam,10,நாடுகாண் காதை,6,pugar_kandam.pdf,42,48
+ENT_PUK_R,புகார்,Pukār,PLACE,PUK_010,Pukār Kāṇṭam,10,நாடுகாண் காதை,3,pugar_kandam.pdf,42,48
+ENT_MADURAI,மதுரை,Madurai,PLACE,PUK_010,Pukār Kāṇṭam,10,நாடுகாண் காதை,3,pugar_kandam.pdf,42,48
+ENT_DEITY,தெய்வம்,Deity,CONCEPT,VAN_001,Vañci Kāṇṭam,24,குன்றக் குரவை,1,vanchi_kandam.pdf,3,6
+ENT_ACTION_KARMA,வினை,Action/Karma,CONCEPT,VAN_001,Vañci Kāṇṭam,24,குன்றக் குரவை,2,vanchi_kandam.pdf,3,6
+ENT_GOLD,பொன்,Gold,OBJECT,VAN_001,Vañci Kāṇṭam,24,குன்றக் குரவை,2,vanchi_kandam.pdf,3,6
+ENT_MOUNTAIN,குன்றம்,Mountain,PLACE,VAN_001,Vañci Kāṇṭam,24,குன்றக் குரவை,1,vanchi_kandam.pdf,3,6
+ENT_MADURAI,மதுரை,Madurai,PLACE,VAN_001,Vañci Kāṇṭam,24,குன்றக் குரவை,2,vanchi_kandam.pdf,3,6
+ENT_ACTION_KARMA,வினை,Action/Karma,CONCEPT,VAN_002,Vañci Kāṇṭam,25,காட்சிக் காதை,2,vanchi_kandam.pdf,7,10
+ENT_ANKLET,சிலம்பு,Anklet,OBJECT,VAN_002,Vañci Kāṇṭam,25,காட்சிக் காதை,1,vanchi_kandam.pdf,7,10
+ENT_GOLD,பொன்,Gold,OBJECT,VAN_002,Vañci Kāṇṭam,25,காட்சிக் காதை,1,vanchi_kandam.pdf,7,10
+ENT_SWORD,வாள்,Sword,OBJECT,VAN_002,Vañci Kāṇṭam,25,காட்சிக் காதை,2,vanchi_kandam.pdf,7,10
+ENT_SPEAR,வேல்,Spear,OBJECT,VAN_002,Vañci Kāṇṭam,25,காட்சிக் காதை,2,vanchi_kandam.pdf,7,10
+ENT_QUEEN_CONSORT,தேவி,Queen/Consort,PERSON_ROLE,VAN_002,Vañci Kāṇṭam,25,காட்சிக் காதை,2,vanchi_kandam.pdf,7,10
+ENT_K_VERI,காவிரி,Kāveri,PLACE,VAN_002,Vañci Kāṇṭam,25,காட்சிக் காதை,2,vanchi_kandam.pdf,7,10
+ENT_MADURAI,மதுரை,Madurai,PLACE,VAN_002,Vañci Kāṇṭam,25,காட்சிக் காதை,1,vanchi_kandam.pdf,7,10
+ENT_VA_CI,வஞ்சி,Vañci,PLACE,VAN_002,Vañci Kāṇṭam,25,காட்சிக் காதை,14,vanchi_kandam.pdf,7,10
+ENT_ACTION_KARMA,வினை,Action/Karma,CONCEPT,VAN_003,Vañci Kāṇṭam,26,கால்கோட் காதை,8,vanchi_kandam.pdf,11,16
+ENT_PEARL,முத்து,Pearl,OBJECT,VAN_003,Vañci Kāṇṭam,26,கால்கோட் காதை,1,vanchi_kandam.pdf,11,16
+ENT_Y,யாழ்,Yāḻ,OBJECT,VAN_003,Vañci Kāṇṭam,26,கால்கோட் காதை,1,vanchi_kandam.pdf,11,16
+ENT_SWORD,வாள்,Sword,OBJECT,VAN_003,Vañci Kāṇṭam,26,கால்கோட் காதை,5,vanchi_kandam.pdf,11,16
+ENT_VA_CI,வஞ்சி,Vañci,PLACE,VAN_003,Vañci Kāṇṭam,26,கால்கோட் காதை,7,vanchi_kandam.pdf,11,16
+ENT_FATE_KARMA,ஊழ்,Fate/Karma,CONCEPT,VAN_004,Vañci Kāṇṭam,27,நீர்ப்படைக் காதை,1,vanchi_kandam.pdf,17,21
+ENT_ACTION_KARMA,வினை,Action/Karma,CONCEPT,VAN_004,Vañci Kāṇṭam,27,நீர்ப்படைக் காதை,6,vanchi_kandam.pdf,17,21
+ENT_FLUTE,குழல்,Flute,OBJECT,VAN_004,Vañci Kāṇṭam,27,நீர்ப்படைக் காதை,1,vanchi_kandam.pdf,17,21
+ENT_GOLD,பொன்,Gold,OBJECT,VAN_004,Vañci Kāṇṭam,27,நீர்ப்படைக் காதை,2,vanchi_kandam.pdf,17,21
+ENT_PEARL,முத்து,Pearl,OBJECT,VAN_004,Vañci Kāṇṭam,27,நீர்ப்படைக் காதை,1,vanchi_kandam.pdf,17,21
+ENT_Y,யாழ்,Yāḻ,OBJECT,VAN_004,Vañci Kāṇṭam,27,நீர்ப்படைக் காதை,1,vanchi_kandam.pdf,17,21
+ENT_SWORD,வாள்,Sword,OBJECT,VAN_004,Vañci Kāṇṭam,27,நீர்ப்படைக் காதை,3,vanchi_kandam.pdf,17,21
+ENT_SPEAR,வேல்,Spear,OBJECT,VAN_004,Vañci Kāṇṭam,27,நீர்ப்படைக் காதை,1,vanchi_kandam.pdf,17,21
+ENT_KANNAKI,கண்ணகி,Kannaki,PERSON,VAN_004,Vañci Kāṇṭam,27,நீர்ப்படைக் காதை,1,vanchi_kandam.pdf,17,21
+ENT_KAVUNTI,கவுந்தி,Kavunti,PERSON,VAN_004,Vañci Kāṇṭam,27,நீர்ப்படைக் காதை,1,vanchi_kandam.pdf,17,21
+ENT_KOVALAN,கோவலன்,Kovalan,PERSON,VAN_004,Vañci Kāṇṭam,27,நீர்ப்படைக் காதை,3,vanchi_kandam.pdf,17,21
+ENT_M_TARI,மாதரி,Mātari,PERSON,VAN_004,Vañci Kāṇṭam,27,நீர்ப்படைக் காதை,1,vanchi_kandam.pdf,17,21
+ENT_MADHAVI,மாதவி,Madhavi,PERSON,VAN_004,Vañci Kāṇṭam,27,நீர்ப்படைக் காதை,3,vanchi_kandam.pdf,17,21
+ENT_QUEEN_CONSORT,தேவி,Queen/Consort,PERSON_ROLE,VAN_004,Vañci Kāṇṭam,27,நீர்ப்படைக் காதை,1,vanchi_kandam.pdf,17,21
+ENT_FOREST,காடு,Forest,PLACE,VAN_004,Vañci Kāṇṭam,27,நீர்ப்படைக் காதை,1,vanchi_kandam.pdf,17,21
+ENT_K_VERI,காவிரி,Kāveri,PLACE,VAN_004,Vañci Kāṇṭam,27,நீர்ப்படைக் காதை,1,vanchi_kandam.pdf,17,21
+ENT_MADURAI,மதுரை,Madurai,PLACE,VAN_004,Vañci Kāṇṭam,27,நீர்ப்படைக் காதை,4,vanchi_kandam.pdf,17,21
+ENT_VA_CI,வஞ்சி,Vañci,PLACE,VAN_004,Vañci Kāṇṭam,27,நீர்ப்படைக் காதை,4,vanchi_kandam.pdf,17,21
+ENT_CHASTITY,கற்பு,Chastity,CONCEPT,VAN_005,Vañci Kāṇṭam,28,நடுகற் காதை,1,vanchi_kandam.pdf,22,26
+ENT_DEITY,தெய்வம்,Deity,CONCEPT,VAN_005,Vañci Kāṇṭam,28,நடுகற் காதை,1,vanchi_kandam.pdf,22,26
+ENT_ACTION_KARMA,வினை,Action/Karma,CONCEPT,VAN_005,Vañci Kāṇṭam,28,நடுகற் காதை,4,vanchi_kandam.pdf,22,26
+ENT_BRAHMINS,மறையோர்,Brahmins,GROUP,VAN_005,Vañci Kāṇṭam,28,நடுகற் காதை,1,vanchi_kandam.pdf,22,26
+ENT_FLUTE,குழல்,Flute,OBJECT,VAN_005,Vañci Kāṇṭam,28,நடுகற் காதை,1,vanchi_kandam.pdf,22,26
+ENT_ANKLET,சிலம்பு,Anklet,OBJECT,VAN_005,Vañci Kāṇṭam,28,நடுகற் காதை,1,vanchi_kandam.pdf,22,26
+ENT_GOLD,பொன்,Gold,OBJECT,VAN_005,Vañci Kāṇṭam,28,நடுகற் காதை,2,vanchi_kandam.pdf,22,26
+ENT_Y,யாழ்,Yāḻ,OBJECT,VAN_005,Vañci Kāṇṭam,28,நடுகற் காதை,1,vanchi_kandam.pdf,22,26
+ENT_SWORD,வாள்,Sword,OBJECT,VAN_005,Vañci Kāṇṭam,28,நடுகற் காதை,5,vanchi_kandam.pdf,22,26
+ENT_SPEAR,வேல்,Spear,OBJECT,VAN_005,Vañci Kāṇṭam,28,நடுகற் காதை,1,vanchi_kandam.pdf,22,26
+ENT_BRAHMIN,பார்ப்பான்,Brahmin,PERSON_ROLE,VAN_005,Vañci Kāṇṭam,28,நடுகற் காதை,1,vanchi_kandam.pdf,22,26
+ENT_MADURAI,மதுரை,Madurai,PLACE,VAN_005,Vañci Kāṇṭam,28,நடுகற் காதை,2,vanchi_kandam.pdf,22,26
+ENT_VA_CI,வஞ்சி,Vañci,PLACE,VAN_005,Vañci Kāṇṭam,28,நடுகற் காதை,4,vanchi_kandam.pdf,22,26
+ENT_VIRTUE_DHARMA,அறம்,Virtue/Dharma,CONCEPT,VAN_006,Vañci Kāṇṭam,29,வாழ்த்துக் காதை,1,vanchi_kandam.pdf,27,32
+ENT_CHASTITY,கற்பு,Chastity,CONCEPT,VAN_006,Vañci Kāṇṭam,29,வாழ்த்துக் காதை,1,vanchi_kandam.pdf,27,32
+ENT_ACTION_KARMA,வினை,Action/Karma,CONCEPT,VAN_006,Vañci Kāṇṭam,29,வாழ்த்துக் காதை,2,vanchi_kandam.pdf,27,32
+ENT_GOLD,பொன்,Gold,OBJECT,VAN_006,Vañci Kāṇṭam,29,வாழ்த்துக் காதை,4,vanchi_kandam.pdf,27,32
+ENT_SWORD,வாள்,Sword,OBJECT,VAN_006,Vañci Kāṇṭam,29,வாழ்த்துக் காதை,3,vanchi_kandam.pdf,27,32
+ENT_KANNAKI,கண்ணகி,Kannaki,PERSON,VAN_006,Vañci Kāṇṭam,29,வாழ்த்துக் காதை,3,vanchi_kandam.pdf,27,32
+ENT_KOVALAN,கோவலன்,Kovalan,PERSON,VAN_006,Vañci Kāṇṭam,29,வாழ்த்துக் காதை,2,vanchi_kandam.pdf,27,32
+ENT_CE_KU_UVAN,செங்குட்டுவன்,Ceṅkuṭṭuvan,PERSON,VAN_006,Vañci Kāṇṭam,29,வாழ்த்துக் காதை,2,vanchi_kandam.pdf,27,32
+ENT_M_S_TTUV_N,மாசாத்துவான்,Māsāttuvān,PERSON,VAN_006,Vañci Kāṇṭam,29,வாழ்த்துக் காதை,1,vanchi_kandam.pdf,27,32
+ENT_MADHAVI,மாதவி,Madhavi,PERSON,VAN_006,Vañci Kāṇṭam,29,வாழ்த்துக் காதை,2,vanchi_kandam.pdf,27,32
+ENT_M_N_YKAN,மாநாய்கன்,Mānāykan,PERSON,VAN_006,Vañci Kāṇṭam,29,வாழ்த்துக் காதை,1,vanchi_kandam.pdf,27,32
+ENT_PANDYAN_KING,பாண்டியன்,Pandyan King,PERSON_ROLE,VAN_006,Vañci Kāṇṭam,29,வாழ்த்துக் காதை,1,vanchi_kandam.pdf,27,32
+ENT_K_VERI,காவிரி,Kāveri,PLACE,VAN_006,Vañci Kāṇṭam,29,வாழ்த்துக் காதை,1,vanchi_kandam.pdf,27,32
+ENT_PUK_R,புகார்,Pukār,PLACE,VAN_006,Vañci Kāṇṭam,29,வாழ்த்துக் காதை,8,vanchi_kandam.pdf,27,32
+ENT_P_MPUK_R,பூம்புகார்,Pūmpukār,PLACE,VAN_006,Vañci Kāṇṭam,29,வாழ்த்துக் காதை,3,vanchi_kandam.pdf,27,32
+ENT_MADURAI,மதுரை,Madurai,PLACE,VAN_006,Vañci Kāṇṭam,29,வாழ்த்துக் காதை,3,vanchi_kandam.pdf,27,32
+ENT_VA_CI,வஞ்சி,Vañci,PLACE,VAN_006,Vañci Kāṇṭam,29,வாழ்த்துக் காதை,7,vanchi_kandam.pdf,27,32
+ENT_VIRTUE_DHARMA,அறம்,Virtue/Dharma,CONCEPT,VAN_007,Vañci Kāṇṭam,30,வரந்தரு காதை,1,vanchi_kandam.pdf,33,37
+ENT_ACTION_KARMA,வினை,Action/Karma,CONCEPT,VAN_007,Vañci Kāṇṭam,30,வரந்தரு காதை,1,vanchi_kandam.pdf,33,37
+ENT_GOLD,பொன்,Gold,OBJECT,VAN_007,Vañci Kāṇṭam,30,வரந்தரு காதை,1,vanchi_kandam.pdf,33,37
+ENT_SWORD,வாள்,Sword,OBJECT,VAN_007,Vañci Kāṇṭam,30,வரந்தரு காதை,1,vanchi_kandam.pdf,33,37
+ENT_MADHAVI,மாதவி,Madhavi,PERSON,VAN_007,Vañci Kāṇṭam,30,வரந்தரு காதை,2,vanchi_kandam.pdf,33,37
+ENT_MOUNTAIN,குன்றம்,Mountain,PLACE,VAN_007,Vañci Kāṇṭam,30,வரந்தரு காதை,1,vanchi_kandam.pdf,33,37
+ENT_VA_CI,வஞ்சி,Vañci,PLACE,VAN_007,Vañci Kāṇṭam,30,வரந்தரு காதை,3,vanchi_kandam.pdf,33,37

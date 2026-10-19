@@ -1,0 +1,103 @@
+export type Language = "en" | "ta";
+
+const translations: Record<Language, Record<string, string>> = {
+  en: {
+    language: "Language",
+    english: "English",
+    tamil: "தமிழ்",
+    sampleQueries: "Sample queries",
+    searchSamples: "Search the 1,000 supplied queries",
+    allLanguages: "All languages",
+    allTypes: "All query types",
+    randomSample: "Random sample",
+    sampleCount: "{count} shown",
+    useQuery: "Use query",
+    noSamples: "No sample queries match these filters.",
+    sampleLoadError: "Sample queries could not be loaded.",
+    queryType: "Query type",
+    input: "Input",
+    preprocessing: "Preprocessing",
+    meaning: "Meaning",
+    logicalRepresentation: "Logical representation",
+    knowledgeGraph: "Knowledge graph",
+    evidenceRetrieval: "Evidence retrieval",
+    answer: "Answer",
+    home: "Home",
+    literaryCorpus: "Literary corpus",
+    interpretation: "Interpretation",
+    hybridRag: "Hybrid RAG",
+    runComplete: "Run complete pipeline",
+    question: "Your question",
+    questionPlaceholder: "Enter a question about Silappatikāram…",
+    preparedCorpus: "Prepared corpus",
+    myTextOrFile: "My text or file",
+    canonicalCorpus: "Canonical Silappatikāram corpus",
+    runInput: "Run input",
+    search: "Search",
+    searchPlaceholder: "Search characters, places, objects, passages…",
+    quickSearches: "Quick searches",
+    retrySearch: "Retry search",
+    graphExplorer: "Knowledge Graph Explorer",
+    backToWorkflow: "Back to workflow",
+    working: "Working…",
+    insufficientEvidence: "Insufficient evidence",
+    evidenceFound: "Evidence found",
+    serviceUnavailable: "The service could not be reached.",
+  },
+  ta: {
+    language: "மொழி",
+    english: "English",
+    tamil: "தமிழ்",
+    sampleQueries: "மாதிரி கேள்விகள்",
+    searchSamples: "வழங்கப்பட்ட 1,000 கேள்விகளில் தேடுக",
+    allLanguages: "அனைத்து மொழிகளும்",
+    allTypes: "அனைத்து கேள்வி வகைகளும்",
+    randomSample: "சீரற்ற மாதிரி",
+    sampleCount: "{count} காட்டப்படுகின்றன",
+    useQuery: "கேள்வியைப் பயன்படுத்து",
+    noSamples: "இந்த வடிகட்டல்களுக்கு மாதிரி கேள்விகள் இல்லை.",
+    sampleLoadError: "மாதிரி கேள்விகளை ஏற்ற முடியவில்லை.",
+    queryType: "கேள்வி வகை",
+    input: "உள்ளீடு",
+    preprocessing: "முன்செயலாக்கம்",
+    meaning: "பொருள்",
+    logicalRepresentation: "தருக்கப் பிரதிநிதித்துவம்",
+    knowledgeGraph: "அறிவுக் கிராஃப்",
+    evidenceRetrieval: "ஆதார மீட்டெடுப்பு",
+    answer: "பதில்",
+    home: "முகப்பு",
+    literaryCorpus: "இலக்கியத் தொகுப்பு",
+    interpretation: "விளக்கம்",
+    hybridRag: "கலப்பு RAG",
+    runComplete: "முழு செயல்முறையை இயக்கு",
+    question: "உங்கள் கேள்வி",
+    questionPlaceholder: "சிலப்பதிகாரம் பற்றிய கேள்வியை உள்ளிடுக…",
+    preparedCorpus: "தயார் செய்யப்பட்ட தொகுப்பு",
+    myTextOrFile: "எனது உரை அல்லது கோப்பு",
+    canonicalCorpus: "நிலையான சிலப்பதிகாரம் உரைத் தொகுப்பு",
+    runInput: "உள்ளீட்டை இயக்கு",
+    search: "தேடு",
+    searchPlaceholder: "கதாபாத்திரங்கள், இடங்கள், பொருட்கள், உரைப்பகுதிகளைத் தேடுக…",
+    quickSearches: "விரைவு தேடல்கள்",
+    retrySearch: "மீண்டும் தேடு",
+    graphExplorer: "அறிவுக் கிராஃப் உலாவி",
+    backToWorkflow: "செயல்முறைக்குத் திரும்பு",
+    working: "செயல்படுகிறது…",
+    insufficientEvidence: "போதிய ஆதாரம் இல்லை",
+    evidenceFound: "ஆதாரம் கிடைத்தது",
+    serviceUnavailable: "சேவையை அணுக முடியவில்லை.",
+  },
+};
+
+export function translate(language: Language, key: string): string {
+  return translations[language][key] || translations.en[key] || key;
+}
+
+export function storedLanguage(): Language {
+  if (typeof window === "undefined") return "en";
+  return window.localStorage.getItem("silappatikaram-language") === "ta" ? "ta" : "en";
+}
+
+export function saveLanguage(language: Language) {
+  window.localStorage.setItem("silappatikaram-language", language);
+}

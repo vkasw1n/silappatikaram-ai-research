@@ -1,0 +1,23 @@
+.env
+.rag_index/
+frontend/node_modules/
+frontend/dist/
+__pycache__/
+.pytest_cache/
+.runtime/
+.venv/
+node_modules/
+**/node_modules/
+frontend/tsconfig.tsbuildinfo
+**/__pycache__/
+*.py[cod]
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+*.log
+.DS_Store
+Thumbs.db
+
+# Generated comparison output from scripts/plot_comparison.py
+ProjectDocument/5/comparison.png
