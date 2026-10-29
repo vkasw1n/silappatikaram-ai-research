@@ -2,8 +2,8 @@ import { useEffect, useState } from "react";
 import { ChevronRight, Search, Shuffle } from "lucide-react";
 import type { Language } from "./i18n";
 import { translate } from "./i18n";
+import { INITIAL_SAMPLE_QUERIES, type SampleQuery } from "./sampleQueries";
 
-type Sample = { id: number; text: string; language: "en" | "ta"; category: string };
 type Props = {
   language: Language;
   api: <T>(path: string, options?: RequestInit) => Promise<T>;
@@ -16,7 +16,7 @@ export default function SampleQueryPicker({ language, api, onSelect }: Props) {
   const [search, setSearch] = useState("");
   const [queryLanguage, setQueryLanguage] = useState<"all" | "en" | "ta">("all");
   const [category, setCategory] = useState("all");
-  const [samples, setSamples] = useState<Sample[]>([]);
+  const [samples, setSamples] = useState<SampleQuery[]>(INITIAL_SAMPLE_QUERIES);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(false);
 
@@ -25,7 +25,7 @@ export default function SampleQueryPicker({ language, api, onSelect }: Props) {
     setError(false);
     try {
       const params = new URLSearchParams({ search, language: queryLanguage, category, limit: "8", random_sample: String(randomSample) });
-      const result = await api<{ queries: Sample[] }>(`/api/samples?${params}`);
+      const result = await api<{ queries: SampleQuery[] }>(`/api/samples?${params}`);
       setSamples(result.queries);
     } catch {
       setSamples([]);
@@ -54,6 +54,7 @@ export default function SampleQueryPicker({ language, api, onSelect }: Props) {
         {categories.map((item) => <option key={item} value={item}>{item === "all" ? translate(language, "allTypes") : item}</option>)}
       </select></label>
     </div>
-    {loading ? <p className="sample-query-status">{translate(language, "working")}</p> : error ? <p className="sample-query-status">{translate(language, "sampleLoadError")}</p> : samples.length ? <div className="sample-query-list">{samples.map((sample) => <button type="button" className="sample-query-item" key={sample.id} onClick={() => onSelect(sample.text)}><span className="sample-query-meta"><span>{sample.language === "ta" ? translate(language, "tamil") : translate(language, "english")}</span><span>{sample.category}</span></span><span className="sample-query-text" lang={sample.language === "ta" ? "ta" : "en"}>{sample.text}</span><span className="sample-query-use">{translate(language, "useQuery")}<ChevronRight size={15} aria-hidden="true" /></span></button>)}</div> : <p className="sample-query-status">{translate(language, "noSamples")}</p>}
+    {loading && <p className="sample-query-status sample-query-refreshing">{translate(language, "working")}</p>}
+    {error && !samples.length ? <p className="sample-query-status">{translate(language, "sampleLoadError")}</p> : samples.length ? <div className="sample-query-list">{samples.map((sample) => <button type="button" className="sample-query-item" key={sample.id} onClick={() => onSelect(sample.text)}><span className="sample-query-meta"><span>{sample.language === "ta" ? translate(language, "tamil") : translate(language, "english")}</span><span>{sample.category}</span></span><span className="sample-query-text" lang={sample.language === "ta" ? "ta" : "en"}>{sample.text}</span><span className="sample-query-use">{translate(language, "useQuery")}<ChevronRight size={15} aria-hidden="true" /></span></button>)}</div> : <p className="sample-query-status">{translate(language, "noSamples")}</p>}
   </section>;
 }

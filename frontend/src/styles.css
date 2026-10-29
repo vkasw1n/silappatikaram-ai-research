@@ -317,6 +317,8 @@ details p, details li { font-size: 14px; line-height: 1.65; }
   .kg-inspector { min-height: 350px; max-height: none; }
   .inspector-empty { min-height: 280px; }
   .graph-hint { max-width: calc(100% - 80px); font-size: 12px; }
+  .sample-query-controls { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .sample-search-field { grid-column: 1 / -1; }
 }
 @media (max-width: 460px) {
   .sidebar { align-items: flex-start; flex-direction: column; gap: 10px; }
