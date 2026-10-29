@@ -4,6 +4,27 @@ Academic research prototype for explainable Silappatikaram analysis using Tamil 
 
 The current workflow covers input, preprocessing, Mīmāṃsā-inspired interpretation, evidence propositions, graph context, hybrid retrieval, and an optional evidence-grounded answer. Nyāya inference, formal verification, proof generation, and justification are not implemented.
 
+## Implementation Status
+
+### Completed
+
+- FastAPI backend with health checks, CORS configuration, validation, structured error handling, and modular API routes.
+- Corpus selection, Tamil text input, and PDF/CSV/TXT upload with validation and source metadata.
+- Unicode normalization, passage/sentence segmentation, tokenization fallback, and prepared entity linking.
+- Source-grounded Mīmāṃsā-inspired interpretation records and evidence-only proposition generation.
+- Validated knowledge graph with CSV fallback, optional Neo4j connectivity, provenance, search, subgraph retrieval, and Cytoscape visualization.
+- Persistent hybrid KG-RAG retrieval using BM25, optional multilingual dense retrieval, graph signals, weighted RRF, reranking, caching, filters, and evidence provenance.
+- Optional OpenAI-compatible answer generation, evidence-only fallback, insufficient-evidence handling, and Tamil-shaped PDF evidence reports.
+- React/Vite dashboard with staged workflow execution, complete-pipeline execution, English/Tamil interface selection, diagnostics, sample queries, source inspection, and graph exploration.
+- Backend test suite, frontend production build, RAG index builder, and retrieval evaluation baseline.
+
+### Pending or intentionally limited
+
+- Nyāya reasoning, formal proof generation, truth verification, and automatic justification.
+- Tamil morphological analysis and POS tagging when specialized NLP libraries are unavailable.
+- Larger validated corpus, richer graph annotations, human relevance judgments, graded labels, and broader bilingual evaluation.
+- Dense retrieval and LLM answer generation require separately configured models/services; BM25 and CSV graph retrieval remain available without them.
+
 ## Pipeline
 
 ```text
@@ -498,7 +519,7 @@ Where does Kovalan's execution occur?
 unknown object that is not in the corpus
 ```
 
-The first queries should return actual source passages when matching evidence exists. The unknown query should return no matching evidence. RAG always keeps `conclusion` as `null`.
+The first queries should return actual source passages when matching evidence exists. The unknown query should return no matching evidence. `conclusion` is populated only when a configured LLM successfully generates a grounded answer; otherwise the service returns an evidence-only fallback.
 
 ### API Test Examples
 
@@ -538,7 +559,6 @@ Find ranked evidence:
 curl -X POST http://localhost:8000/api/rag/query \
         -H "Content-Type: application/json" \
         -d '{"query":"Kovalan anklet","top_k":3}'
-```
 ```
 
 ## Current Limitations

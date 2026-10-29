@@ -1,0 +1,173 @@
+\documentclass[11pt,a4paper]{article}
+
+\usepackage[margin=0.85in]{geometry}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{enumitem}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{microtype}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=blue!50!black,
+  urlcolor=blue!50!black
+}
+
+\definecolor{codegray}{gray}{0.95}
+\lstset{
+  basicstyle=\ttfamily\small,
+  backgroundcolor=\color{codegray},
+  frame=single,
+  rulecolor=\color{black!20},
+  breaklines=true,
+  columns=fullflexible,
+  showstringspaces=false
+}
+
+\title{Testing, Validation, and Performance Analysis}
+\author{Silappatikaram Explainable KG--RAG Prototype}
+\date{30 October 2026}
+
+\begin{document}
+\maketitle
+\vspace{-1em}
+
+\section{Testing and Validation Results}
+
+The system was validated at three levels: backend API tests, frontend production compilation, and retrieval evaluation. The backend tests exercise corpus input, preprocessing, M\={\i}m\={a}ms\={a}-inspired interpretation, proposition generation, graph integrity, RAG behavior, samples, and evaluation endpoints. The frontend check confirms that the React/Vite dashboard can be compiled into a production bundle.
+
+\subsection{Validation commands}
+
+\begin{lstlisting}[language=bash]
+cd /d/Silapathikaram
+source .venv/Scripts/activate
+python -m pytest -q
+python scripts/evaluate_rag.py
+
+cd frontend
+npm run build
+\end{lstlisting}
+
+\begin{table}[ht]
+\centering
+\caption{Current validation results from the project workspace.}
+\label{tab:validation}
+\small
+\begin{tabular}{p{0.29\linewidth}p{0.18\linewidth}p{0.43\linewidth}}
+\toprule
+\textbf{Validation area} & \textbf{Result} & \textbf{Interpretation} \\
+\midrule
+Backend test suite & 40 passed, 2 failed & Core services execute successfully, but two sample-query expectations do not match the current fixture data. \\
+Frontend production build & Passed & TypeScript compilation and Vite bundling completed successfully. \\
+Graph integrity & Passed & The prepared graph validates 96 nodes and 354 relationships; provenance is preserved. \\
+RAG evaluation endpoint & Passed & The endpoint returns measured results for 30 indexed passages and three queries. \\
+Sample-query distribution & Failed & Current data contains 200 English and 800 Tamil queries; tests expect 500 English and 500 Tamil. \\
+Sample category search & Failed & The test query ``Kovalan'' with category ``graph'' returned no matching sample in the current data. \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The two failing tests are data-contract failures rather than runtime crashes. They identify a reproducibility issue that should be resolved by either correcting the sample fixture to the documented 500/500 distribution and category labels, or updating the tests to match the approved dataset specification.
+
+\subsection{Validation interpretation}
+
+The passing graph, corpus, preprocessing, interpretation, proposition, RAG, and frontend checks show that the principal research workflow is executable. However, the project should not be described as fully validated until the sample-query data contract is corrected and the complete test suite passes.
+
+\newpage
+\section{Retrieval Performance Analysis}
+
+The retrieval service combines BM25 lexical search, optional multilingual dense retrieval, graph-based passage evidence, weighted Reciprocal Rank Fusion (RRF), and a reranking stage. The current evaluation uses three queries: ``Kovalan anklet'', ``Kovalan execution'', and one Tamil query. The target passage IDs are MAT\_010, MAT\_006, and MAT\_010 respectively.
+
+\subsection{Current measured results}
+
+\begin{table}[ht]
+\centering
+\caption{Current retrieval evaluation output.}
+\label{tab:retrieval-current}
+\small
+\begin{tabular}{lrrr}
+\toprule
+\textbf{Metric} & \textbf{Value} & \textbf{Meaning} & \textbf{Status} \\
+\midrule
+Recall@5 & 0.667 & Relevant target retrieved for two of three queries & Moderate \\
+Precision@5 & 0.133 & Average relevant-item proportion in the top five & Low \\
+MRR & 0.417 & Average reciprocal rank of the first relevant item & Partial \\
+NDCG@5 & Not available & Binary baseline has no graded relevance labels & Not measured \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The results indicate that the system can retrieve relevant evidence for most of the small evaluation set, but the low Precision@5 shows that the top-five lists contain substantial non-relevant material. The result should be treated as a prototype baseline because the query set has only three items and no independent human annotation set.
+
+\subsection{Latency and candidate-pool measurements}
+
+A direct run of the same three queries produced the following retrieval latencies. These measurements cover the retrieval service call in the local development environment and should not be interpreted as production capacity results.
+
+\begin{table}[ht]
+\centering
+\caption{Local retrieval latency measurements.}
+\label{tab:latency}
+\small
+\begin{tabular}{lrr}
+\toprule
+\textbf{Query} & \textbf{Latency (ms)} & \textbf{Candidates} \\
+\midrule
+Kovalan anklet & 50.92 & 25 \\
+Kovalan execution & 31.43 & 19 \\
+Tamil query & 26.91 & 25 \\
+\midrule
+Mean & 36.42 & 23.0 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The candidate pool is bounded before fusion and reranking. This keeps response time predictable, while the cache can reduce repeated-query cost. Dense retrieval and Neo4j are optional; when unavailable, the service continues with BM25 and the validated CSV graph fallback.
+
+\newpage
+\section{Ablation Analysis, Limitations, and Reproducibility}
+
+The project documentation records an earlier ablation study over the same three-query set, using top-five retrieval and disabling reranking. These values are retained as a documented baseline and should be rerun after changes to the index, query data, or ranking implementation.
+
+\begin{table}[ht]
+\centering
+\caption{Documented retrieval ablation baseline.}
+\label{tab:ablation}
+\small
+\begin{tabular}{lrrr}
+\toprule
+\textbf{Configuration} & \textbf{Precision@5} & \textbf{Recall@5} & \textbf{MRR} \\
+\midrule
+BM25 only & 0.067 & 0.333 & 0.333 \\
+Dense only & 0.000 & 0.000 & 0.000 \\
+Graph only & 0.200 & 1.000 & 1.000 \\
+Hybrid without graph ranking & 0.067 & 0.333 & 0.333 \\
+Hybrid without dense threshold & 0.200 & 1.000 & 1.000 \\
+Hybrid weighted RRF & 0.200 & 1.000 & 1.000 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The documented hybrid configuration uses RRF constant $k=60$ and weights $w_{dense}=0.4$, $w_{BM25}=0.3$, and $w_{graph}=0.3$. The graph-only and hybrid results suggest that validated graph links are particularly useful for this small benchmark. The dense-only result also shows that embedding retrieval should not be assumed to outperform symbolic evidence on a small literary corpus.
+
+\subsection{Traceability and limitations}
+
+The documented structural traceability checks report citation resolution of 15/15 and provenance completeness of 15/15. Each returned evidence item contains a passage ID, source file, page range, and graph provenance. These are structural checks, not human judgments of citation correctness.
+
+The principal limitations are:
+\begin{itemize}[leftmargin=*]
+  \item The evaluation set contains only three queries.
+  \item No independent inter-annotator agreement or graded relevance labels are available.
+  \item NDCG and abstention correctness cannot yet be measured rigorously.
+  \item Tamil morphology and POS tagging use fallback behavior when specialist tools are unavailable.
+  \item Ny\={a}ya reasoning, formal proof generation, truth verification, and automatic justification are not implemented.
+\end{itemize}
+
+\subsection{Recommended next validation steps}
+
+Future experiments should enlarge the bilingual query set, add at least two independent relevance annotations per query, introduce graded relevance for NDCG, test answerable and unanswerable questions, and rerun the ablation after every index or ranking change. The two failing sample-query tests should be fixed before presenting the system as release-ready.
+
+\noindent\textbf{Source files:} \url{https://github.com/} (replace with repository URL), \texttt{scripts/evaluate\_rag.py}, \texttt{backend/tests/}, and \texttt{ProjectDocument/5/Retrieval Effectiveness/retrieval\_effectiveness.md}.
+
+\end{document}
